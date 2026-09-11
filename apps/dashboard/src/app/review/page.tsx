@@ -1,6 +1,7 @@
 import { createServerSupabase } from "@/lib/supabase";
 import { ReviewActions } from "./review-actions";
 import { RefUploadForm } from "./ref-upload-form";
+import { MasterUploadForm } from "./master-upload-form";
 
 interface QueueItem {
   id: string;
@@ -8,6 +9,7 @@ interface QueueItem {
   kind: string;
   tier: string;
   queue: "sync" | "hero_publish" | "supervisor_outreach" | "ref_intake";
+  hasMaster?: boolean;
 }
 
 const REF_CHECKLIST = [
@@ -76,6 +78,7 @@ async function loadQueue(): Promise<QueueItem[]> {
         kind: "episode",
         tier: "hero",
         queue: "hero_publish",
+        hasMaster: false,
       },
     ];
   }
@@ -104,12 +107,14 @@ async function loadQueue(): Promise<QueueItem[]> {
     .eq("stage", "dan_review");
 
   for (const r of runs ?? []) {
+    const meta = (r.metadata ?? {}) as Record<string, unknown>;
     items.push({
       id: r.id,
       title: r.title,
       kind: r.kind,
-      tier: String(r.metadata?.tier ?? "hero"),
+      tier: String(meta.tier ?? "hero"),
       queue: "hero_publish",
+      hasMaster: Boolean(meta.resolveMasterUri),
     });
   }
 
@@ -164,7 +169,15 @@ export default async function ReviewPage() {
                 <span className={`badge ${item.tier}`}>{item.tier}</span>
               </td>
               <td>
-                <ReviewActions itemId={item.id} queue={item.queue} />
+                <div style={{ display: "flex", flexDirection: "column", gap: "0.5rem" }}>
+                  <ReviewActions itemId={item.id} queue={item.queue} />
+                  {item.queue === "hero_publish" && (
+                    <MasterUploadForm
+                      runId={item.id}
+                      hasMaster={Boolean(item.hasMaster)}
+                    />
+                  )}
+                </div>
               </td>
             </tr>
           ))}

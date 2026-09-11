@@ -7,6 +7,7 @@ Before any public Sammy launch:
 - [x] All studio/sync LLM responses zod-parsed (A3)
 - [x] Per-agent temperature deployed (A4)
 - [x] Atomic `add_job_cost` (B1)
+- [x] S3 master hand-off — `/api/review/master-upload` writes `metadata.resolveMasterUri`; publish refuses empty
 - [ ] ≥3 internal dry-runs through `dan_review`, zero canon violations — `pnpm sammy:dry-runs`
 - [ ] Sentry enabled ≥7 days clean logs — set `SENTRY_DSN` on worker deploy
 - [x] `launch_disclosure_version` set on studio project metadata — migration `20260706000001`

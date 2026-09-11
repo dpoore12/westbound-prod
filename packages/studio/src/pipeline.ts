@@ -15,6 +15,9 @@ import {
   type ProductionStage,
 } from "@westbound/platform";
 import { AssetLibrary } from "./asset-library.js";
+import { resolvePublishMediaUri } from "./publish-media.js";
+
+export { resolvePublishMediaUri } from "./publish-media.js";
 
 const STAGES: ProductionStage[] = [
   "draft",
@@ -249,12 +252,15 @@ export class StudioPipeline {
     if (!run) throw new Error(`Run not found: ${runId}`);
 
     const title = run.title;
+    const mediaUri = resolvePublishMediaUri(
+      run.metadata as Record<string, unknown>
+    );
     const resolveMasterUri = String(run.metadata.resolveMasterUri ?? "");
     const publishers = this.adapters.publishers;
 
     if (this.adapters.creatomate && process.env.CREATOMATE_TEMPLATE_SHORTS) {
       const mod = {
-        master_uri: resolveMasterUri,
+        master_uri: resolveMasterUri || mediaUri,
         formats: ["9:16", "9:16", "16:9"],
       };
       await this.adapters.creatomate.render({
@@ -266,7 +272,7 @@ export class StudioPipeline {
     await publishers.youtube.publish({
       title,
       description: String(run.metadata.description ?? "Sammy Rane and Westbound"),
-      mediaUri: resolveMasterUri || String(run.metadata.episodeVideoUri ?? ""),
+      mediaUri,
       scheduledAt: run.metadata.scheduledAt
         ? new Date(String(run.metadata.scheduledAt))
         : undefined,

@@ -9,3 +9,4 @@ dist
 .supabase
 coverage
 .vercel
+apps/dashboard/tsconfig.tsbuildinfo

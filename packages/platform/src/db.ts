@@ -79,6 +79,24 @@ export class WestboundRepository {
     return ProductionRunSchema.parse(data);
   }
 
+  /** Merge keys into production_runs.metadata (S3 master hand-off, etc.). */
+  async mergeProductionRunMetadata(
+    id: string,
+    patch: Record<string, unknown>
+  ): Promise<ProductionRun> {
+    const current = await this.getProductionRun(id);
+    if (!current) throw new Error(`Production run not found: ${id}`);
+    const metadata = { ...current.metadata, ...patch };
+    const { data, error } = await this.db
+      .from("production_runs")
+      .update({ metadata, updated_at: new Date().toISOString() })
+      .eq("id", id)
+      .select()
+      .single();
+    if (error) throw error;
+    return ProductionRunSchema.parse(data);
+  }
+
   async listProductionRuns(
     projectId?: string,
     pagination?: { limit?: number; cursor?: string }
