@@ -3,7 +3,7 @@ import { NextResponse, type NextRequest } from "next/server";
 /**
  * Soft auth gate scaffolding.
  * When REQUIRE_DAN_AUTH=true, review mutation APIs need a session cookie.
- * Default off so local stub/demo mode keeps working.
+ * Committed default is true (.env.example); set false only for local stub/demo.
  */
 export function middleware(req: NextRequest) {
   if (process.env.REQUIRE_DAN_AUTH !== "true") {
