@@ -2,6 +2,7 @@ import { createServerSupabase } from "@/lib/supabase";
 import { ReviewActions } from "./review-actions";
 import { RefUploadForm } from "./ref-upload-form";
 import { MasterUploadForm } from "./master-upload-form";
+import { REF_CHECKLIST, TEASER1_CHECKLIST } from "@/lib/ref-checklists";
 
 interface QueueItem {
   id: string;
@@ -12,28 +13,12 @@ interface QueueItem {
   hasMaster?: boolean;
 }
 
-const REF_CHECKLIST = [
-  "01_hero_portrait.png",
-  "02_profile_left.png",
-  "03_profile_right.png",
-  "04_wardrobe_a_full.png",
-  "05_wardrobe_b_full.png",
-  "06_wardrobe_c_full.png",
-  "07_loc_indiana.png",
-  "08_loc_bar.png",
-  "09_loc_highway.png",
-  "10_loc_la.png",
-  "11_loc_rehearsal.png",
-  "12_voice_spoken.wav",
-  "13_voice_singing.wav",
-];
-
-async function loadRefIntakeStatus(): Promise<
-  Array<{ filename: string; ingested: boolean }>
-> {
+async function loadIntakeStatus(
+  checklist: readonly string[]
+): Promise<Array<{ filename: string; ingested: boolean }>> {
   const db = createServerSupabase();
   if (!db) {
-    return REF_CHECKLIST.map((filename) => ({ filename, ingested: false }));
+    return checklist.map((filename) => ({ filename, ingested: false }));
   }
 
   const { data: projects } = await db
@@ -43,7 +28,7 @@ async function loadRefIntakeStatus(): Promise<
     .limit(1);
   const projectId = projects?.[0]?.id;
   if (!projectId) {
-    return REF_CHECKLIST.map((filename) => ({ filename, ingested: false }));
+    return checklist.map((filename) => ({ filename, ingested: false }));
   }
 
   const { data: assets } = await db
@@ -51,7 +36,7 @@ async function loadRefIntakeStatus(): Promise<
     .select("r2_uri, metadata")
     .eq("project_id", projectId);
 
-  return REF_CHECKLIST.map((filename) => {
+  return checklist.map((filename) => {
     const ingested = (assets ?? []).some(
       (a) =>
         a.r2_uri.includes(filename) ||
@@ -138,11 +123,13 @@ async function loadQueue(): Promise<QueueItem[]> {
 }
 
 export default async function ReviewPage() {
-  const [items, refStatus] = await Promise.all([
+  const [items, refStatus, teaserStatus] = await Promise.all([
     loadQueue(),
-    loadRefIntakeStatus(),
+    loadIntakeStatus(REF_CHECKLIST),
+    loadIntakeStatus(TEASER1_CHECKLIST),
   ]);
   const refDone = refStatus.filter((r) => r.ingested).length;
+  const teaserDone = teaserStatus.filter((r) => r.ingested).length;
 
   return (
     <>
@@ -187,8 +174,24 @@ export default async function ReviewPage() {
         <h2 style={{ fontSize: "1rem" }}>
           Ref intake (Dan) — {refDone}/{REF_CHECKLIST.length} complete
         </h2>
+        <p style={{ fontSize: "0.85rem", color: "var(--muted)" }}>
+          Wave 1 gate — numbered 01–13 pack + full credential block.
+        </p>
         <ul style={{ fontSize: "0.85rem", color: "var(--muted)" }}>
           {refStatus.map((r) => (
+            <li key={r.filename} style={{ color: r.ingested ? "green" : undefined }}>
+              {r.ingested ? "✓" : "○"} {r.filename}
+            </li>
+          ))}
+        </ul>
+        <h2 style={{ fontSize: "1rem", marginTop: "1.5rem" }}>
+          Teaser 1 frames — {teaserDone}/{TEASER1_CHECKLIST.length} complete
+        </h2>
+        <p style={{ fontSize: "0.85rem", color: "var(--muted)" }}>
+          Additive Midjourney locks — <strong>not</strong> the Wave 1 credential clock.
+        </p>
+        <ul style={{ fontSize: "0.85rem", color: "var(--muted)" }}>
+          {teaserStatus.map((r) => (
             <li key={r.filename} style={{ color: r.ingested ? "green" : undefined }}>
               {r.ingested ? "✓" : "○"} {r.filename}
             </li>
