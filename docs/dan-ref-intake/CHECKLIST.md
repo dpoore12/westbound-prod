@@ -33,3 +33,10 @@ pnpm --filter @westbound/studio ingest -- docs/dan-ref-intake/01_hero_portrait.p
 ```
 
 Mark checklist items in dashboard **Review → Ref intake** when wired.
+
+## Teaser 1 frames (additive — not checklist slots)
+
+Locked Midjourney frames for Teaser 1 live in this folder as `teaser1_*.png` (1680×720).
+They are **outside** the 13 numbered deliverables above. Ingest via `pnpm ingest:refs` the same way.
+Wave 1 clock still requires the numbered 01–13 pack + full credential block.
+
