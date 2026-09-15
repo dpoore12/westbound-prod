@@ -1,5 +1,6 @@
 import { NextResponse } from "next/server";
 import { createServerSupabase } from "@/lib/supabase";
+import { ingestTagsForFilename } from "@/lib/ingest-tags";
 
 /**
  * Upload a Dan ref asset into the studio asset library via worker job.
@@ -28,6 +29,7 @@ export async function POST(req: Request) {
     : contentType.startsWith("video")
       ? "video"
       : "image";
+  const tags = ingestTagsForFilename(filename);
 
   const buf = Buffer.from(await file.arrayBuffer());
   const workerUrl = process.env.WORKER_API_URL ?? "http://localhost:3001";
@@ -49,6 +51,8 @@ export async function POST(req: Request) {
           bodyBase64: buf.toString("base64"),
           contentType,
           type,
+          tags,
+          metadata: { filename },
         },
       }),
     });
@@ -59,5 +63,5 @@ export async function POST(req: Request) {
     );
   }
 
-  return NextResponse.json({ ok: true, filename, type });
+  return NextResponse.json({ ok: true, filename, type, tags });
 }
