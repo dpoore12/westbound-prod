@@ -36,7 +36,18 @@ Mark checklist items in dashboard **Review → Ref intake** when wired.
 
 ## Teaser 1 frames (additive — not checklist slots)
 
-Locked Midjourney frames for Teaser 1 live in this folder as `teaser1_*.png` (1680×720).
-They are **outside** the 13 numbered deliverables above. Ingest via `pnpm ingest:refs` the same way.
-Wave 1 clock still requires the numbered 01–13 pack + full credential block.
+Locked Midjourney frames for Teaser 1 (1680×720). **Outside** the 13 numbered deliverables.
+Ingest via `pnpm ingest:refs` the same way. Wave 1 clock still requires 01–13 + full credential block.
+
+| File |
+|------|
+| `teaser1_eyes_hero.png` |
+| `teaser1_fretboard_hero.png` |
+| `teaser1_cigarette_profile_hero.png` |
+| `teaser1_needle_hero.png` |
+| `teaser1_whiskey_lift_hero.png` |
+| `teaser1_strum_hero.png` |
+| `teaser1_lips_drink_hero.png` |
+| `teaser1_ashtray_hero.png` |
+| `teaser1_stadium_hero.png` |
 
