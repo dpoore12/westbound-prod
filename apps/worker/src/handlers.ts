@@ -108,7 +108,14 @@ export function startWorkers(): ReturnType<typeof createAllWorkers> {
         bodyBase64: string;
         contentType: string;
         type: "image" | "video" | "audio";
+        tags?: string[];
+        metadata?: Record<string, unknown>;
       };
+      const tags =
+        p.tags ??
+        (p.filename.startsWith("teaser1_")
+          ? ["dashboard_upload", "teaser1"]
+          : ["dashboard_upload", "ref_pack"]);
       await library.ingest({
         projectSlug: p.projectSlug,
         entitySlug: p.entitySlug,
@@ -116,6 +123,8 @@ export function startWorkers(): ReturnType<typeof createAllWorkers> {
         filename: p.filename,
         body: Buffer.from(p.bodyBase64, "base64"),
         contentType: p.contentType,
+        tags,
+        metadata: { filename: p.filename, ...(p.metadata ?? {}) },
       });
     },
     "youtube.assemble_video": async (job) => {
