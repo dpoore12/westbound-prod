@@ -1,0 +1,252 @@
+{
+ "total": 60.0,
+ "frame": "21:9",
+ "shots": [
+  {
+   "start": 0.0,
+   "end": 3.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_01_itch.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 3.0,
+   "end": 4.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_02_highway.mp4",
+   "mode": "fitblur",
+   "src_start": 0.8
+  },
+  {
+   "start": 4.0,
+   "end": 5.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_03_arrive.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 5.0,
+   "end": 9.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_04_behind.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 9.0,
+   "end": 11.0,
+   "kind": "clip",
+   "path": "handoff/kling/dan_shot_just_tapping.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 11.0,
+   "end": 17.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_06_apartment.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 17.0,
+   "end": 19.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_07_drink.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 19.0,
+   "end": 25.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_08_reveal.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0,
+   "dark": 0.85,
+   "lift": {
+    "at": 4.0,
+    "fade": 0.4
+   }
+  },
+  {
+   "start": 25.0,
+   "end": 26.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_09_halflit.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 26.0,
+   "end": 29.0,
+   "kind": "clip",
+   "path": "handoff/kling/dan_shot_alley.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 29.0,
+   "end": 32.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_11_strip.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 32.0,
+   "end": 35.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_12_bar.mp4",
+   "mode": "fitblur",
+   "src_start": 1.7
+  },
+  {
+   "start": 35.0,
+   "end": 37.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_13_club.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 37.0,
+   "end": 39.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_14_mirror.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 39.0,
+   "end": 41.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_15_pool.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 41.0,
+   "end": 43.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_16_stage.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 43.0,
+   "end": 46.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_17a_mic_take2.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 46.0,
+   "end": 48.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_17b_eyes.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "reverse": true
+  },
+  {
+   "start": 48.0,
+   "end": 55.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_dv_18_packed.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 55.0,
+   "end": 57.0,
+   "kind": "black"
+  },
+  {
+   "start": 57.0,
+   "end": 59.0,
+   "kind": "card",
+   "lines": [
+    {
+     "text": "SAMMY RANE",
+     "size": 104
+    },
+    {
+     "text": "\"Different View\"",
+     "size": 56
+    },
+    {
+     "text": "coming soon",
+     "size": 40
+    }
+   ]
+  },
+  {
+   "start": 59.0,
+   "end": 60.0,
+   "kind": "black"
+  }
+ ],
+ "audio": {
+  "music": [
+   {
+    "file": "handoff/songs/different_view_full_band_warm_low.wav",
+    "src_start": 123.0,
+    "at": 0.0,
+    "gain": [
+     [
+      0.0,
+      0.3
+     ],
+     [
+      3.0,
+      0.4
+     ],
+     [
+      23.0,
+      0.4
+     ],
+     [
+      32.0,
+      0.6
+     ],
+     [
+      48.0,
+      0.85
+     ],
+     [
+      53.0,
+      1.0
+     ],
+     [
+      55.0,
+      1.0
+     ],
+     [
+      55.02,
+      0.0
+     ],
+     [
+      60.0,
+      0.0
+     ]
+    ]
+   }
+  ],
+  "vo": [
+   {
+    "file": "handoff/vo/dv_01_dad_trouble.mp3",
+    "at": 0.4,
+    "peak": 0.7
+   },
+   {
+    "file": "handoff/vo/dv_02_sammy_answer.mp3",
+    "at": 48.0,
+    "peak": 0.85
+   }
+  ]
+ }
+}
