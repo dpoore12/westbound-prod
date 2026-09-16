@@ -1,0 +1,125 @@
+--- page 1 ---
+About 60 s, 2520x1080. Music: the master from 1:18.0 (four seconds of quiet lead-in), hard cut at
+2:12.0 on "company," exact frame to be confirmed on the waveform before lock. Two voices: Tre
+at the top, Sammy at the bottom. Nobody else speaks.
+This one has no peak. The music barely moves for fifty seconds and the picture shouldn't either.
+The whole teaser is a phone that doesn't ring. Long holds, almost no camera movement, one big
+cut in the middle (the ten years) and one at the end (to black).
+Two Sammys: THEN (38, New York, still drinking, dark beard) and NOW (48, on tour, seven
+years sober, gray in it). Tre's face is seen once, in the first four seconds, and never again.
+teaser lyric (song time) picture
+0:00 lead-in, quiet (1:18)
+Inside a car, night, West Side Highway. TRE in the passenger seat, green eyes, that smile,
+points out the window at a building going past. TRE: "Boys like you don't get to make it
+last." SAMMY THEN, driving, doesn't look at the building or at her. Hand on her thigh.
+0:04
+"A wedding pulled her
+north for a weekend"
+(1:22)
+Greenwich Street, morning. Tre from behind, weekend bag over her shoulder, getting
+into a cab. She turns back and gives a small wave up to a window. Ordinary. Not a
+goodbye.
+0:09 (instrumental)
+Sammy THEN in the walk-up window above, coffee, watching the cab go. Cut to the
+kitchen behind him: two mugs on the counter. One is clean.
+0:14
+"The phone went quiet,
+then it went black" (1:32)
+A bar, that night. Sammy THEN with a full glass, and this time he drinks it. His phone
+face-up on the bar, screen lit: TRE, calling out. Rings. Rings. Screen goes dark. He pours
+another.
+0:21
+"Morning didn't say much,
+didn't have to" (1:39)
+Dawn through the walk-up window. Sammy THEN asleep in his clothes on the couch,
+phone dark on his chest. Nothing moves but the light.
+0:26
+"And the next ten years
+never gave her back"
+(1:44)
+MATCH CUT on the body: same pose, same angle, different room. Sammy NOW on a
+hotel bed, boots on, gray in the beard, phone dark on his chest. Ten years in one cut.
+Hold.
+0:30
+"I quit the bottle, but I
+didn't quit her" (1:48)
+Hotel bar, later. A whiskey in front of Sammy NOW. Full. His hand flat on the bar next to
+it. He doesn't touch it. (This is the glass from the bartender clip and from Mirror. It's
+becoming his signature; let it.)
+0:36
+"I traded one ghost for
+another" (1:54)
+Hotel room, 2 AM. A woman asleep in the bed, face away from us, not Tre. Sammy NOW
+sitting on the edge of the bed with his back to her, phone in his hand, lighting his face.
+0:38
+"Typed her name at 2 a.m.
+last winter" (1:56)
+Over his shoulder on the screen. Frost on the hotel window behind it. The To field: Tre.
+The message field: empty, cursor blinking. His thumb starts, stops, starts. We never read
+what he types.
+0:42
+"Hit send before the
+better angel could
+answer" (2:01)
+Close on the thumb. It hits send. The little sound. "Delivered." His face doesn't change.
+TRE OFF GREENWICH — teaser shot list v1
+--- page 2 ---
+teaser lyric (song time) picture
+0:47
+"Watched the screen go
+dark and stay that way"
+(2:05)
+The screen dims on its own, then locks. Black glass. His face goes dark with it. HOLD.
+Three full seconds of nothing. This is the shot.
+0:50
+"Same silence I've been
+keeping company" (2:08)
+Wide, static. The whole hotel room. Her asleep behind him. Him on the edge of the bed,
+phone face down on his knee now. Nobody moves.
+0:54 HARD CUT (2:12.0) Black. Silence. Half a second.
+0:54.5 SAMMY NOW, dead-level, close: "Seven years. Still checking."
+0:57 SAMMY RANE / "Tre off Greenwich" / coming soon. Hold 2.5 s. Black.
+Every other woman in the catalog leaves through a door. Tre left through a phone, and he's been
+holding the phone ever since. The teaser never shows a breakup because there wasn't one. It
+shows a man who got sober and kept the one habit that mattered.
+No stage at the end. The song has no peak in this window and putting him on stage would
+lie about that. Mirror broke the same rule; two in a row is a pattern, so the next one goes
+back to the stage.
+Sammy drinks on camera at 0:14. He's THEN, not NOW. It's the only teaser where he does,
+and it's there so the untouched glass at 0:30 means something.
+Tre tre_lost_love (EhRnO3ZUfGiqV4a8ooxF), one line, in the car, half a smile in it: "Boys
+like you don't get to make it last." Style 0.
+Sammy sammy_rane (9hxACPAp0PycObOZREHQ), one line, over black: "Seven years. Still
+checking." Style 0.
+Tre, mid-30s, passenger seat, night, green eyes, wide smile with too many teeth. One frame.
+She's never seen again, so it only has to be right once.
+Sammy THEN: 38, New York, dark beard, no gray, same jaw as the Sammy Element. Ages
+0:00 through 0:21.
+Sammy NOW: the existing Element, gray in the beard. Ages 0:26 through 0:54.
+The couch pose and the hotel bed pose for the 0:21 / 0:26 match cut. Same body position,
+same lens height, both frames generated before either clip so the cut is exact.
+The phone screen at 0:38 and 0:42 is a composited insert, not Kling. I build it in the edit so
+the text is controllable.
+Why it's him
+Rules this breaks, on purpose
+Voices
+Frames needed before the shoot (Midjourney, then Kling Elements)
+--- page 3 ---
+1. Car interior, night, two-shot, Tre pointing. 5 s.
+2. Greenwich Street morning, Tre to cab, wave up. 5 s.
+3. Sammy THEN in the window with coffee. 3 s. 4. Kitchen, two mugs. 2 s.
+4. Bar, Sammy THEN drinks; phone lit on the bar. 7 s. (Phone screen replaced in edit.)
+5. Dawn couch, Sammy THEN asleep. 5 s.
+6. Hotel bed, Sammy NOW, identical pose. 4 s.
+7. Hotel bar, full whiskey, hand flat beside it. 6 s.
+8. Hotel room 2 AM, woman asleep, Sammy on bed edge with phone. 2 s.
+9. Over-shoulder on phone, frost window. 4 s. (Screen replaced.)
+10. Thumb, send. 5 s. (Screen replaced.)
+11. Face lit by phone, then dark. 3 s. Let the light change happen in-shot if Kling will;
+otherwise I do it in grade.
+12. Wide static hotel room. 4 s.
+The bar, the pours, the hotel bed, the hotel bathroom exist in the archive but they're all Sammy
+NOW. THEN has to be new. The car interior may be adaptable from the Different View "girl's feet
+on dash" shot if it was ever generated; otherwise new.
+Kling shots (13, all silent, native audio off)
+Archive check
