@@ -1,0 +1,209 @@
+{
+ "total": 68.0,
+ "frame": "21:9",
+ "shots": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_ml_01a_boy.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 2.0,
+   "end": 4.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_ml_01b_dad_door.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 4.0,
+   "end": 12.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_ml_02_bed.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 12.0,
+   "end": 16.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_ml_03_glass.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 16.0,
+   "end": 23.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_ml_03b_bar_friend.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 23.0,
+   "end": 31.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_ml_04_nicole.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 31.0,
+   "end": 43.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_ml_06c_darkmirror.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 43.0,
+   "end": 45.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_ml_07_mirror.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 45.0,
+   "end": 50.0,
+   "kind": "clip",
+   "path": "handoff/kling/claude_ml_05_water.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 50.0,
+   "end": 53.3,
+   "kind": "clip",
+   "path": "handoff/kling/claude_ml_07_mirror.mp4",
+   "mode": "fitblur",
+   "src_start": 2.5
+  },
+  {
+   "start": 53.3,
+   "end": 58.3,
+   "kind": "clip",
+   "path": "handoff/kling/claude_ml_08_father.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 58.3,
+   "end": 67.3,
+   "kind": "clip",
+   "path": "handoff/kling/claude_ml_09_sunset_walk.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0,
+   "title": {
+    "at": 5.0,
+    "fade": 1.0,
+    "lines": [
+     {
+      "text": "SAMMY RANE",
+      "size": 104
+     },
+     {
+      "text": "\"The Mirror's Lying\"",
+      "size": 56
+     },
+     {
+      "text": "coming soon",
+      "size": 40
+     }
+    ]
+   }
+  },
+  {
+   "start": 67.3,
+   "end": 68.0,
+   "kind": "black"
+  }
+ ],
+ "audio": {
+  "music": [
+   {
+    "file": "handoff/songs/the_mirrors_lying_warm_high.wav",
+    "src_start": 8.3,
+    "at": 0.0,
+    "gain": [
+     [
+      0.0,
+      0.7
+     ],
+     [
+      3.5,
+      0.7
+     ],
+     [
+      4.5,
+      1.0
+     ],
+     [
+      28.4,
+      1.0
+     ],
+     [
+      28.8,
+      0.75
+     ],
+     [
+      30.9,
+      0.75
+     ],
+     [
+      31.3,
+      1.0
+     ],
+     [
+      58.0,
+      1.0
+     ],
+     [
+      58.5,
+      0.28
+     ],
+     [
+      63.4,
+      0.28
+     ],
+     [
+      64.2,
+      0.4
+     ],
+     [
+      66.3,
+      0.4
+     ],
+     [
+      67.3,
+      0.0
+     ],
+     [
+      68.0,
+      0.0
+     ]
+    ]
+   }
+  ],
+  "vo": [
+   {
+    "file": "handoff/vo/ml_01_dad_sleep.mp3",
+    "at": 0.6,
+    "peak": 0.7
+   },
+   {
+    "file": "handoff/vo/ml_03_nicole_cant_watch.mp3",
+    "at": 28.9,
+    "peak": 0.8
+   },
+   {
+    "file": "handoff/vo/ml_02_sammy_itall.mp3",
+    "at": 59.2,
+    "peak": 0.97
+   }
+  ]
+ }
+}
