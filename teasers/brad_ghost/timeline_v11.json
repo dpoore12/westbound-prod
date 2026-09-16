@@ -1,0 +1,187 @@
+{
+ "total": 30.0,
+ "shots": [
+  {
+   "start": 0.0,
+   "end": 3.5,
+   "kind": "black"
+  },
+  {
+   "start": 3.5,
+   "end": 6.0,
+   "kind": "clip",
+   "path": "/Users/danpoore/Westbound/sammy/handoff/kling/dan_shot_pain.mp4",
+   "mode": "fitblur",
+   "src_start": 2.2
+  },
+  {
+   "start": 6.0,
+   "end": 8.0,
+   "kind": "clip",
+   "path": "/Users/danpoore/Westbound/sammy/handoff/kling/dan_shot_just_tapping.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 8.0,
+   "end": 10.0,
+   "kind": "clip",
+   "path": "/Users/danpoore/Westbound/sammy/handoff/kling/dan_shot_drinking_whiskey_spill.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 10.0,
+   "end": 14.0,
+   "kind": "clip",
+   "path": "/Users/danpoore/Westbound/sammy/handoff/kling/dan_shot_alley.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0
+  },
+  {
+   "start": 14.0,
+   "end": 18.3,
+   "kind": "clip",
+   "path": "/Users/danpoore/Westbound/sammy/handoff/kling/dan_shot_raiding.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 18.3,
+   "end": 20.0,
+   "kind": "clip",
+   "path": "/Users/danpoore/Westbound/sammy/handoff/kling/dan_shot_stadium_fireworks_rockgod.mp4",
+   "mode": "fitblur",
+   "src_start": 3.0
+  },
+  {
+   "start": 20.0,
+   "end": 25.0,
+   "kind": "clip",
+   "path": "/Users/danpoore/Westbound/sammy/handoff/kling/dan_shot_raiding.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 25.0,
+   "end": 30.0,
+   "kind": "clip",
+   "path": "/Users/danpoore/Westbound/sammy/handoff/kling/dan_shot_stadium_fireworks_rockgod.mp4",
+   "mode": "fitblur",
+   "src_start": 0.0,
+   "title": {
+    "text": "SAMMY RANE",
+    "at": 2.0,
+    "fade": 1.0
+   }
+  }
+ ],
+ "audio": {
+  "room_tone": 0.004,
+  "music": [
+   {
+    "file": "/Users/danpoore/Westbound/sammy/handoff/songs/Radio Underwater- Sammy Rane and Westbound.wav",
+    "src_start": 31.7,
+    "at": 0.0,
+    "gain": [
+     [
+      0,
+      0.1
+     ],
+     [
+      3.5,
+      0.12
+     ],
+     [
+      5.0,
+      0.2
+     ],
+     [
+      10.0,
+      0.35
+     ],
+     [
+      13.9,
+      0.55
+     ],
+     [
+      14.4,
+      0.9
+     ],
+     [
+      20.0,
+      1.0
+     ],
+     [
+      27.0,
+      1.0
+     ],
+     [
+      29.3,
+      0.7
+     ],
+     [
+      30.0,
+      0.0
+     ]
+    ]
+   }
+  ],
+  "native": [
+   {
+    "file": "/Users/danpoore/Westbound/sammy/handoff/kling/dan_shot_stadium_fireworks_rockgod.mp4",
+    "at": 14.0,
+    "gain": [
+     [
+      14.0,
+      0.3
+     ],
+     [
+      18.3,
+      0.9
+     ],
+     [
+      19.0,
+      0.9
+     ],
+     [
+      19.0,
+      0.9
+     ]
+    ]
+   }
+  ],
+  "vo": [
+   {
+    "file": "/Users/danpoore/Westbound/sammy/handoff/vo/10_gf_that_music.mp3",
+    "at": 0.3,
+    "peak": 0.45
+   },
+   {
+    "file": "/Users/danpoore/Westbound/sammy/handoff/vo/11_pain_xodx.mp3",
+    "at": 4.3,
+    "peak": 0.65
+   },
+   {
+    "file": "/Users/danpoore/Westbound/sammy/handoff/vo/03_brad_louder.mp3",
+    "at": 6.3,
+    "peak": 0.7
+   },
+   {
+    "file": "/Users/danpoore/Westbound/sammy/handoff/vo/12_manager_sunset.mp3",
+    "at": 10.3,
+    "peak": 0.7
+   },
+   {
+    "file": "/Users/danpoore/Westbound/sammy/handoff/vo/08_announcer_v3_tight.wav",
+    "at": 15.0,
+    "peak": 0.85
+   },
+   {
+    "file": "/Users/danpoore/Westbound/sammy/handoff/vo/09_sammy_closer.mp3",
+    "at": 21.0,
+    "peak": 0.85
+   }
+  ]
+ }
+}
