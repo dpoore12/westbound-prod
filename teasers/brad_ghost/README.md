@@ -1,21 +1,21 @@
-# Brad Ghost Teaser ("Radio Underwater") — v14 (approved 16 Sep 2026)
+# Brad Ghost Teaser ("Radio Underwater") — v15 (approved 16 Sep 2026)
 
-`brad_ghost_teaser_v14_APPROVED.mp4` — 30 s, 2520x1080, H.264/AAC; 720p copy alongside. Same cut as v11 with two changes Dan asked for: the stacked end title over the fireworks shot (v13), and the figure in the distance of the alley shot is now Sammy in the shadows (v14). For v14 the first frame of Dan's alley clip was edited with the Kling image tools (Sammy alley photo as the reference, `source_frames/`) and the motion reshot from the edited frame (`clips/claude_ghost_alley_sammy.mp4`).
+`brad_ghost_teaser_v15_APPROVED.mp4` — 30 s, 2520x1080, H.264/AAC; 720p copy alongside. Same cut as the locked v11 with three changes Dan asked for: the stacked end title over the fireworks shot (v13), Sammy in the shadows as the figure in the distance of the alley shot (v14), and the band walking out as Sammy plus exactly four, a woman and three men, two with guitars and one with drumsticks (v15). For v14 and v15 the first frame of Dan's own clip was edited with the Kling image tools (`source_frames/`) and the motion reshot from the edited frame (`clips/claude_ghost_alley_sammy.mp4`, `clips/claude_ghost_band_walkout.mp4`).
 
-Cut sheet: `cut_sheet_v14_APPROVED.json` (studio renderer `build/cut.py` in `~/Westbound/sammy`). The Radio Underwater mix stays out of this public repo.
+Cut sheet: `cut_sheet_v15_APPROVED.json` (studio renderer `build/cut.py` in `~/Westbound/sammy`). The Radio Underwater mix stays out of this public repo.
 
-## Timeline (v14)
+## Timeline (v15)
 ```
-CUT ghost_v14_APPROVED  30 s  frame 21:9 (2520x1080)
+CUT ghost_v15_APPROVED  30 s  frame 21:9 (2520x1080)
 PICTURE
     0.00-  3.50  black
     3.50-  6.00  clip   dan_shot_pain.mp4  from 2.2s  fitblur
     6.00-  8.00  clip   dan_shot_just_tapping.mp4  from 0s  crop
     8.00- 10.00  clip   dan_shot_drinking_whiskey_spill.mp4  from 0s  crop
    10.00- 14.00  clip   claude_ghost_alley_sammy.mp4  from 0s  fitblur
-   14.00- 18.30  clip   dan_shot_raiding.mp4  from 0s  crop
+   14.00- 18.30  clip   claude_ghost_band_walkout.mp4  from 0s  crop
    18.30- 20.00  clip   dan_shot_stadium_fireworks_rockgod.mp4  from 3s  fitblur
-   20.00- 25.00  clip   dan_shot_raiding.mp4  from 0s  crop
+   20.00- 25.00  clip   claude_ghost_band_walkout.mp4  from 5s  crop
    25.00- 30.00  clip   dan_shot_stadium_fireworks_rockgod.mp4  from 0s  fitblur  [title "" at +1.5s]
 VOICE
     0.30  10_gf_that_music.mp3  (2.32 s)  peak 0.45
