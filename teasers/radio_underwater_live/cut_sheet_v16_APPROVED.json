@@ -1,0 +1,358 @@
+{
+ "total": 254.0,
+ "frame": "16:9",
+ "shots": [
+  {
+   "start": 0,
+   "end": 6,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix1_open_crowd_0_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 6,
+   "end": 16,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix13_violin_intro_6_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 16,
+   "end": 22.25,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix14_violin_intro_16_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 22.25,
+   "end": 31.6,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix3_closeup_22.25_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 31.6,
+   "end": 36,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open5_cass_max_768p.mp4",
+   "mode": "crop",
+   "src_start": 2.6
+  },
+  {
+   "start": 36,
+   "end": 45,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix4_wideR2A_36_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 45,
+   "end": 49,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open7_closeup_45_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 49,
+   "end": 53.3,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open8_handsonmic_49_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 53.3,
+   "end": 55,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix10_cutaway_R3_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 55,
+   "end": 59.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix17_closeup_hook_55_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 59.5,
+   "end": 62,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open10_violinist_59.5_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 62,
+   "end": 67.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix21_closeup_hook_62_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 67.5,
+   "end": 73,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open12_closeup_67_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.5
+  },
+  {
+   "start": 73,
+   "end": 77.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open13_cass_max_73_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 77.5,
+   "end": 79.25,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix10_cutaway_R3_768p.mp4",
+   "mode": "crop",
+   "src_start": 2.5
+  },
+  {
+   "start": 79.25,
+   "end": 84,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open14_handsonmic_78_768p.mp4",
+   "mode": "crop",
+   "src_start": 1.25
+  },
+  {
+   "start": 84,
+   "end": 88,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix5_wideR2B_84_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 88,
+   "end": 92,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix19_closeup_88_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 92,
+   "end": 96.4,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open16_violinist_90_768p.mp4",
+   "mode": "crop",
+   "src_start": 2.0
+  },
+  {
+   "start": 96.4,
+   "end": 107.9,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix6_closeup_96.4_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 107.9,
+   "end": 117.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix12_closeup_eyes_107.9_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 117.5,
+   "end": 123.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix20_hands_117.5_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 123.5,
+   "end": 130.2,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s7_2_closeup_123.5_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 130.2,
+   "end": 136.2,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s7_3_hands_130.2_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 136.2,
+   "end": 149.75,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s7_4_closeup_136.2_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 149.75,
+   "end": 155.75,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s7_5_cassmax_149.75_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 155.75,
+   "end": 165.19,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s7_6_closeup_155.75_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 165.19,
+   "end": 175.6,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix23_solo_violinist_pinned_163.95_768p.mp4",
+   "mode": "crop",
+   "src_start": 2.2
+  },
+  {
+   "start": 175.6,
+   "end": 183.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_A_closeup_175.6_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 183.5,
+   "end": 191.0,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_B_hands_183.5_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 191.0,
+   "end": 192.0,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix10_cutaway_R3_768p.mp4",
+   "mode": "crop",
+   "src_start": 4.0
+  },
+  {
+   "start": 192.0,
+   "end": 196.0,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_C_closeup_192_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 196.0,
+   "end": 199.0,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_D_cassmax_196_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 199.0,
+   "end": 209.0,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_E1_closeup_199_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 209.0,
+   "end": 215.7,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_E2_closeup_209_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 215.7,
+   "end": 221.6,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_F_hands_215.7_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 221.6,
+   "end": 227.6,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_G1_violin_221.6_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 227.6,
+   "end": 231.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_G2_closeup_227.6_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 231.5,
+   "end": 238.4,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_G3_violin_231.5_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 238.4,
+   "end": 246.4,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_G4_closeup_238.4_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 246.4,
+   "end": 254.0,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_G5_room_246.4_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  }
+ ],
+ "audio": {
+  "room_tone": 0.0,
+  "music": [
+   {
+    "file": "handoff/songs/Radio Underwater- Sammy Rane and Westbound.wav",
+    "src_start": 0.0,
+    "at": 0.0,
+    "gain": [
+     [
+      0,
+      1.0
+     ],
+     [
+      252.5,
+      1.0
+     ],
+     [
+      254.0,
+      0.0
+     ]
+    ]
+   }
+  ]
+ }
+}
