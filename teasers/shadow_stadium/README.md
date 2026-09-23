@@ -1,15 +1,17 @@
 # Sammy Rane — Shadow, live in the stadium (full-song video)
 
-**v15 APPROVED and locked, 23 Sep 2026** (Dan: "lock it"). Full song, 0:00–3:12, 1920×1080 24 fps.
+**v18 APPROVED and locked, 23 Sep 2026** (Dan: "lock it"; supersedes v15). Full song, 0:00–3:12, 1920×1080 24 fps.
 
-- `shadow_stadium_v15_preview_720p.mp4` — 720p preview. The 1080p master lives in the studio (`exports/shadow_v15_APPROVED.mp4`), in `~/Downloads/Sammy_YouTube/` as the YouTube master, and on Google Drive `Sammy_Rane_Westbound_BACKUP`.
-- `cut_sheet_v15_APPROVED.json` — the cut. Every take sits at its slice's song time with `src_start 0` (MiniMax H3 Max via OpenArt, frame + that slice of the master).
-- `frame_sheet_v15.jpg` — frames across the cut.
+- `shadow_stadium_v18_preview_720p.mp4` — 720p preview. The 1080p master lives in the studio (`exports/shadow_v18_APPROVED.mp4`), in `~/Downloads/Sammy_YouTube/` as the YouTube master, and on Google Drive `Sammy_Rane_Westbound_BACKUP`.
+- `cut_sheet_v18_APPROVED.json` — the cut. Every take sits at its slice's song time with `src_start 0` (MiniMax H3 Max via OpenArt, frame + that slice of the master).
+- `frame_sheet_v18.jpg` — frames across the cut.
 - `source_frames/` — the four Character-built stadium frames every band shot comes from (OpenArt Image, venue plate + the four HERO LOCKED Characters, gated against the heroes). `T4c_cassmax_A_onekit` is T4c with the second drum kit removed (v15).
 - Method: PLAYBOOK Part D2 in the private studio repo. Band shots are never rolled in Midjourney; `midjourney_prompts_superseded.md` is kept only as history.
 - v14 added a 2 s fade to black on the ending; v15 re-shot the 1:17 Cass+Max shot so there is one drummer.
 
 Song masters are not in this public repo.
+
+- v18 re-made the five shots where Sammy is small in frame (0:44, 0:58, 1:43, 2:22, 2:37) as photoreal: GPT Image 2 photographic frames (`source_frames/photoreal_*`) animated on MiniMax H3 at 2K with vocal-only slices.
 
 ## Shot list
 | Song time | Clip | from |
