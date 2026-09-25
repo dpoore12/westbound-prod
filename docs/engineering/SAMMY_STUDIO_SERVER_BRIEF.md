@@ -96,5 +96,15 @@ OpenArt and Kling are storefronts for models (Kling, MiniMax H3, Seedance, Veo, 
 - Honest ceiling: open models trail Kling 3 / Veo 3.1 / H3 by a step on photoreal motion; for locked-off concert shots under 5 s with a driver clip, Wan Animate is purpose-built and competitive. Per-take cost at volume is well under a vendor credit.
 - **Gemini today:** Dan's Gemini account gives Veo 3.1 (video, native audio, reference images) and Nano Banana Pro (stills) by API — no browser, callable now as a second provider for Sammy shots and stills. It does not do motion transfer or trained characters, so it is a provider, not the insurance.
 
+## What "better than the platforms" means here
+We will never out-train Kling, Veo or MiniMax on raw realism; those are nine-figure models and we rent them. We can beat every platform **on Sammy Rane videos specifically**, because they are general and we are not. Five levers, all of which compound with every approved take:
+1. **Cast:** a LoRA per member trained on our heroes and our growing set of approved frames beats any vendor's generic Character feature on likeness, and gets better as the library grows.
+2. **Sync:** measured to the frame (`xc_check`), best-of-N selection, and a lip-sync model fine-tuned on Sammy's own mouth. Platforms sync a generic mouth.
+3. **Motion:** captured from real players filmed to the track, so it is human and on the beat by construction. Platforms guess motion from text.
+4. **Taste as data:** every verdict Dan gives trains a small ranking model that orders candidates the way he would and predicts rejections before a render. No platform has his verdicts.
+5. **Cut rules:** nothing over 5 s, angle change at every cut, sync first, no black — the cut looks right because the rules are ours and enforced by code.
+Measured by: first-try approval rate, sync error in ms, likeness score against the heroes, credits per approved second. These numbers are the proof, and only our engine can compute them on our cast.
+Note on "as Claude gets better": the operator model does not learn from a session; the factory is where learning lives (rules as code, presets, verdicts, metrics). A better base model plugs in on top of the same factory and inherits everything it learned.
+
 ## Definition of done, phase 1
 From "Cass, still 16, driver 22, gap at 1:21", the model makes three tool calls, no browser is visible to anyone, and the take lands in the store with its contact sheet and a PASS from every gate in under five minutes — or a FAIL that names the reason before any credit is spent.
