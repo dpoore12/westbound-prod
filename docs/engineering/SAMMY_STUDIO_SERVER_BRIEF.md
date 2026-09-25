@@ -87,5 +87,14 @@ Private repo `dpoore12/sammy-rane-studio` (know-how + heroes; media on the Mac a
 4. **Backup.** 500 takes at 2K is 50–100 GB. Two copies, one off-site, checksummed, for everything — not only for locked cuts.
 5. **Rights and account.** Confirm OpenArt/Kling commercial-use terms on outputs; keep the vendor accounts in the company's name with 2FA; record the licence of every driver clip (Pexels/Mixkit are fine for derived motion) and the Suno terms for the songs.
 
+## Phase 3 — own the cast (self-hosted models)
+OpenArt and Kling are storefronts for models (Kling, MiniMax H3, Seedance, Veo, Wan). The cast lives on their servers because their Character feature is the only thing holding likeness. To own it:
+- **Rent a GPU, don't buy one.** One H100-class box on demand (RunPod / Lambda, ~USD 2–3 per hour, off when idle). Video models need CUDA; a Mac cannot do this.
+- **Open-weight models:** Wan 2.2 / Wan Animate (character + motion transfer from a driver clip — the Motion Sync job), Hunyuan Video, LTX for fast previews; LatentSync or MuseTalk for lip-sync at 720p; Real-ESRGAN for the 2K upscale.
+- **A LoRA per band member**, trained from `HEROES_LOCKED/` plus the approved stills. That is the cast, as a file we own, that no vendor can delete or change. Rebuilding it on any future model is a re-train from the same files.
+- Same provider contract: `wan.motion_sync`, `wan.h3_equivalent`, `latentsync.lip`. Route by the numbers like any other vendor.
+- Honest ceiling: open models trail Kling 3 / Veo 3.1 / H3 by a step on photoreal motion; for locked-off concert shots under 5 s with a driver clip, Wan Animate is purpose-built and competitive. Per-take cost at volume is well under a vendor credit.
+- **Gemini today:** Dan's Gemini account gives Veo 3.1 (video, native audio, reference images) and Nano Banana Pro (stills) by API — no browser, callable now as a second provider for Sammy shots and stills. It does not do motion transfer or trained characters, so it is a provider, not the insurance.
+
 ## Definition of done, phase 1
 From "Cass, still 16, driver 22, gap at 1:21", the model makes three tool calls, no browser is visible to anyone, and the take lands in the store with its contact sheet and a PASS from every gate in under five minutes — or a FAIL that names the reason before any credit is spent.
