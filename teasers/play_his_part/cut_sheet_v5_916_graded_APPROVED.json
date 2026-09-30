@@ -1,0 +1,1047 @@
+{
+ "total": 238.15,
+ "frame": "9:16",
+ "_note": "play_his_part_v5_916 (30 Sep 2026) = the locked v5 (cuts/play_his_part_v5_APPROVED.json) at 1080x1920: the same 47 shots, times, takes and audio; each shot carries the 9:16 window it shows (zoom by 1.0 / bx / ax). Built by build/play_his_part_v5_916.py from handoff/play_his_part/analysis/v5_916_windows.json. GRADED: Resolve adds a per-shot match and one room LUT on top (resolve block); the cut is unchanged.",
+ "shots": [
+  {
+   "start": 0.0,
+   "end": 3.762,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1,
+   "zoom": {
+    "by": 1.3521,
+    "bx": 4.2,
+    "ax": 0.332,
+    "ay": 0.0
+   }
+  },
+  {
+   "start": 3.762,
+   "end": 6.92,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C2_cass_218.00_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.035,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.406,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 6.92,
+   "end": 8.266,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_crowd_scoot_31_6s.mp4",
+   "mode": "crop",
+   "src_start": 0.5,
+   "speed": 1
+  },
+  {
+   "start": 8.266,
+   "end": 11.424,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 4.021,
+   "speed": 1,
+   "zoom": {
+    "by": 1.3521,
+    "bx": 4.2,
+    "ax": 0.332,
+    "ay": 0.0
+   }
+  },
+  {
+   "start": 11.424,
+   "end": 15.0,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_B2_leni_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.149,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 15.0,
+   "end": 19.551,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_A_015.00_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.45,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 19.551,
+   "end": 22.2,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C2_cass_218.00_8s.mp4",
+   "mode": "crop",
+   "src_start": 3.564,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.406,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 22.2,
+   "end": 28.5,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_C_022.20_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.399,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 28.5,
+   "end": 33.994,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_D_028.50_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.44,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 33.994,
+   "end": 36.5,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_B2_leni_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 4.021,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.149,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 36.5,
+   "end": 43.3,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_E2_036.50_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.4,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 43.3,
+   "end": 50.5,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_F_043.30_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.42,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 50.5,
+   "end": 58.329,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_B2_050.50_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.384,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 58.329,
+   "end": 61.486,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1,
+   "zoom": {
+    "by": 1.3521,
+    "bx": 4.2,
+    "ax": 0.332,
+    "ay": 0.0
+   }
+  },
+  {
+   "start": 61.486,
+   "end": 62.856,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_crowd_scoot_39_6s.mp4",
+   "mode": "crop",
+   "src_start": 0.5,
+   "speed": 1
+  },
+  {
+   "start": 62.856,
+   "end": 65.2,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 3.579,
+   "speed": 1,
+   "zoom": {
+    "by": 1.3521,
+    "bx": 4.2,
+    "ax": 0.332,
+    "ay": 0.0
+   }
+  },
+  {
+   "start": 65.2,
+   "end": 72.7,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_G_065.20_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.42,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 72.7,
+   "end": 79.5,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_H2_072.70_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.399,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 79.5,
+   "end": 86.7,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_I_079.50_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.409,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 86.7,
+   "end": 95.341,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_J2_086.70_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.384,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 95.341,
+   "end": 99.405,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1,
+   "zoom": {
+    "by": 1.3521,
+    "bx": 4.2,
+    "ax": 0.332,
+    "ay": 0.0
+   }
+  },
+  {
+   "start": 99.405,
+   "end": 100.751,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_crowd_scoot_45_6s.mp4",
+   "mode": "crop",
+   "src_start": 0.5,
+   "speed": 1
+  },
+  {
+   "start": 100.751,
+   "end": 103.909,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_M1_max_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.461,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 103.909,
+   "end": 106.6,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C2_cass_218.00_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.035,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.406,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 106.6,
+   "end": 113.3,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_K_106.60_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.42,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 113.3,
+   "end": 119.9,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_L_113.30_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.42,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 119.9,
+   "end": 127.8,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_M3_119.90_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.384,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 127.8,
+   "end": 137.0,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_N2_127.80_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.399,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 137.0,
+   "end": 144.4,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_O_137.00_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.42,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 144.4,
+   "end": 151.441,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_P_144.40_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.35,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 151.441,
+   "end": 154.877,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_BV3_148.40_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 3.041,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.351,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 154.877,
+   "end": 159.405,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_Q_153.20_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 1.677,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.43,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 159.405,
+   "end": 162.099,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 4.462,
+   "speed": 1,
+   "zoom": {
+    "by": 1.3521,
+    "bx": 4.2,
+    "ax": 0.332,
+    "ay": 0.0
+   }
+  },
+  {
+   "start": 162.099,
+   "end": 163.468,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_crowd_scoot_31_6s.mp4",
+   "mode": "crop",
+   "src_start": 2.146,
+   "speed": 1
+  },
+  {
+   "start": 163.468,
+   "end": 165.3,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_B2_leni_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.149,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 165.3,
+   "end": 174.707,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_R_165.30_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.399,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 174.707,
+   "end": 175.8,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C2_cass_218.00_8s.mp4",
+   "mode": "crop",
+   "src_start": 3.123,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.406,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 175.8,
+   "end": 187.6,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_BV1c_175.80_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.466,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 187.6,
+   "end": 191.866,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_T_187.60_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.42,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 191.866,
+   "end": 199.3,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_BV2_191.70_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.166,
+   "speed": 1,
+   "zoom": {
+    "by": 1.3521,
+    "bx": 4.2,
+    "ax": 0.3467,
+    "ay": 0.0
+   }
+  },
+  {
+   "start": 199.3,
+   "end": 208.74,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_U3_199.30_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.384,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 208.74,
+   "end": 212.184,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1,
+   "zoom": {
+    "by": 1.3521,
+    "bx": 4.2,
+    "ax": 0.332,
+    "ay": 0.0
+   }
+  },
+  {
+   "start": 212.184,
+   "end": 213.531,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_crowd_scoot_39_6s.mp4",
+   "mode": "crop",
+   "src_start": 2.17,
+   "speed": 1
+  },
+  {
+   "start": 213.531,
+   "end": 216.247,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_B2_leni_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 2.256,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.149,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 216.247,
+   "end": 218.0,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C2_cass_218.00_8s.mp4",
+   "mode": "crop",
+   "src_start": 4.447,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.406,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 218.0,
+   "end": 229.7,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_OUT1_cass_max_rex_218.00_14s.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.175,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 229.7,
+   "end": 238.15,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_OUT2_cass_max_rex_226.00_12s.mp4",
+   "mode": "crop",
+   "src_start": 3.7,
+   "speed": 1,
+   "zoom": {
+    "by": 1.0,
+    "bx": 3.1111,
+    "ax": 0.175,
+    "ay": 0.5
+   }
+  }
+ ],
+ "audio": {
+  "room_tone": 0.0,
+  "music": [
+   {
+    "file": "handoff/songs/play_his_part_landr_open_high_rev_v1.wav",
+    "src_start": 0.0,
+    "at": 0.0,
+    "gain": [
+     [
+      0,
+      0.92
+     ],
+     [
+      238.15,
+      0.92
+     ]
+    ]
+   },
+   {
+    "file": "handoff/play_his_part/sfx/php_bed_238s.wav",
+    "src_start": 0.0,
+    "at": 0.0,
+    "gain": [
+     [
+      0,
+      0.14
+     ],
+     [
+      236.5,
+      0.14
+     ],
+     [
+      238.15,
+      0.0
+     ]
+    ]
+   }
+  ]
+ },
+ "_reframe": {
+  "0": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame",
+  "1": "C2 Cass: no frontal face found (head tilted), centre window cut his shoulder; by eye x 370..802: face 470-650, picking hand, fretting hand at the right edge",
+  "3": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame",
+  "4": "B2 Leni with Rex behind: on LENI, x 136..568: her hair, face, both hands and the bass neck and scroll; Rex and the kit (from x~660) outside. Shot 43: the detector chose REX (ax 0.73), overruled (rule 29)",
+  "5": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 410..842",
+  "6": "C2 Cass: no frontal face found (head tilted), centre window cut his shoulder; by eye x 370..802: face 470-650, picking hand, fretting hand at the right edge",
+  "7": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 364..796",
+  "8": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 401..833",
+  "9": "B2 Leni with Rex behind: on LENI, x 136..568: her hair, face, both hands and the bass neck and scroll; Rex and the kit (from x~660) outside. Shot 43: the detector chose REX (ax 0.73), overruled (rule 29)",
+  "10": "Sammy, hands on the mic at the right (E2): detector 346 moved to 365 so the hand on the mic stays in at the end of the slot",
+  "11": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 383..815",
+  "12": "Sammy, hand on the mic at the LEFT of his face (B2/J2/M3/U3 frames): the detector's face-centred window (410-419) cut the hand; by eye x 350..782 holds the hand, the mic and the whole face",
+  "13": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame",
+  "15": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame",
+  "16": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 383..815",
+  "17": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 364..796",
+  "18": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 373..805",
+  "19": "Sammy, hand on the mic at the LEFT of his face (B2/J2/M3/U3 frames): the detector's face-centred window (410-419) cut the hand; by eye x 350..782 holds the hand, the mic and the whole face",
+  "20": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame",
+  "22": "M1 Max: no frontal face (eyes down under the cap); by eye x 420..852: face 490-620, his mic, picking hand, fretting hand",
+  "23": "C2 Cass: no frontal face found (head tilted), centre window cut his shoulder; by eye x 370..802: face 470-650, picking hand, fretting hand at the right edge",
+  "24": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 383..815",
+  "25": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 383..815",
+  "26": "Sammy, hand on the mic at the LEFT of his face (B2/J2/M3/U3 frames): the detector's face-centred window (410-419) cut the hand; by eye x 350..782 holds the hand, the mic and the whole face",
+  "27": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 364..796",
+  "28": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 383..815",
+  "29": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 319..751",
+  "30": "BV3 Max singing the backing line: detector 246 put the stage light in and his fretting hand out; by eye x 320..752: face and mic centred, picking hand, bass body",
+  "31": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 392..824",
+  "32": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame",
+  "34": "B2 Leni with Rex behind: on LENI, x 136..568: her hair, face, both hands and the bass neck and scroll; Rex and the kit (from x~660) outside. Shot 43: the detector chose REX (ax 0.73), overruled (rule 29)",
+  "35": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 364..796",
+  "36": "C2 Cass: no frontal face found (head tilted), centre window cut his shoulder; by eye x 370..802: face 470-650, picking hand, fretting hand at the right edge",
+  "37": "BV1c Sammy and Cass at one mic: heads 430-610 and 710-870, together 440 px on a 432 px window; by eye x 425..857 holds both faces and the mic for the sung harmony (src 0-9.7 s). When Cass steps back to play (src ~9.7-10.5 s, cut 3:05.5-3:06.3) he leaves the frame to the right; a window that keeps him at the end (to x~990) would lose Sammy's face. Crops read at 385/410/439 before choosing",
+  "38": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 383..815",
+  "39": "BV2 Cass singing the backing line: the locked 16:9 crop (by 1.7, left/top) hides the EMPTY KIT; centre-cropped to 9:16 it left a 253 px window that cut his face, and a full-height window (x 262..694) showed the empty kit's stands and kick in the bottom right corner. Tighter 9:16 crop x 355..675, y 0..568: Cass's face at the mic singing, strap, the top of the guitar; the kit is out of frame at every time read (0.2, 2.0, 4.0, 7.5 s)",
+  "40": "Sammy, hand on the mic at the LEFT of his face (B2/J2/M3/U3 frames): the detector's face-centred window (410-419) cut the hand; by eye x 350..782 holds the hand, the mic and the whole face",
+  "41": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame",
+  "43": "B2 Leni with Rex behind: on LENI, x 136..568: her hair, face, both hands and the bass neck and scroll; Rex and the kit (from x~660) outside. Shot 43: the detector chose REX (ax 0.73), overruled (rule 29)",
+  "44": "C2 Cass: no frontal face found (head tilted), centre window cut his shoulder; by eye x 370..802: face 470-650, picking hand, fretting hand at the right edge",
+  "45": "OUT1/OUT2 Cass, Rex behind, Max at the right: the detector centred REX with half of Cass at the left edge; three men span 190-1300 and no 9:16 window holds them. By eye on CASS with REX behind him, x 160..592: Cass whole with the Les Paul, Rex's face whole (490-585), Cass's raised fist at the final chord (OUT2 src 9.2-9.6 s) inside; Max (from x~830) outside, and the bass is silent over the last 17 s",
+  "46": "OUT1/OUT2 Cass, Rex behind, Max at the right: the detector centred REX with half of Cass at the left edge; three men span 190-1300 and no 9:16 window holds them. By eye on CASS with REX behind him, x 160..592: Cass whole with the Les Paul, Rex's face whole (490-585), Cass's raised fist at the final chord (OUT2 src 9.2-9.6 s) inside; Max (from x~830) outside, and the bass is silent over the last 17 s"
+ },
+ "resolve": {
+  "superscale": 2,
+  "superscale_recipe": "Resolve Studio Super Scale 2x on every 1344x768 source (media pool clip property): the 9:16 enlarges the takes 2.5x (3.4x on the tight Cass crops), so the 1080x1920 frame is resampled from 2688x1536 instead of 768p",
+  "renderer": "DaVinci Resolve 21.1 via build/resolve_sheet_to_scripts.py --out play_his_part_v5_916_graded; per-shot CDL match + LUT + Super Scale 2x; same master and bed",
+  "lut": "MCP/scoot_inn_night.cube",
+  "lut_recipe": "generate_lut 33^3: 20% smoothstep contrast blend, warm bias r*1.02 b*0.975 (lighter than the Whisky's: the room is already warm and red), highlights above 0.8 desaturated 10% toward luma; one look across all 47 shots so the black close-ups, the red stage and the blue-dusk crowd sit in one night",
+  "cdl": {
+   "1": {
+    "slope": [
+     0.8186,
+     0.8186,
+     0.8186
+    ],
+    "why": "band shot at luma 0.224 vs group 0.183, cast R/Y 1.61 G/Y 0.86 B/Y 0.65"
+   },
+   "2": {
+    "slope": [
+     0.9394,
+     0.9394,
+     0.9394
+    ],
+    "why": "crowd shot at luma 0.193 vs group 0.182, cast R/Y 1.31 G/Y 0.94 B/Y 0.79"
+   },
+   "3": {
+    "slope": [
+     1.0942,
+     1.0942,
+     1.0942
+    ],
+    "why": "band shot at luma 0.167 vs group 0.183, cast R/Y 1.40 G/Y 0.92 B/Y 0.74"
+   },
+   "4": {
+    "slope": [
+     1.25,
+     1.25,
+     1.25
+    ],
+    "why": "band shot at luma 0.141 vs group 0.183, cast R/Y 1.69 G/Y 0.84 B/Y 0.60"
+   },
+   "5": {
+    "slope": [
+     0.8862,
+     0.8862,
+     0.8862
+    ],
+    "why": "closeup shot at luma 0.295 vs group 0.261, cast R/Y 1.27 G/Y 0.95 B/Y 0.78"
+   },
+   "6": {
+    "slope": [
+     0.8078,
+     0.8078,
+     0.8078
+    ],
+    "why": "band shot at luma 0.227 vs group 0.183, cast R/Y 1.59 G/Y 0.87 B/Y 0.65"
+   },
+   "7": {
+    "slope": [
+     0.9267,
+     0.9267,
+     0.9267
+    ],
+    "why": "closeup shot at luma 0.282 vs group 0.261, cast R/Y 1.34 G/Y 0.93 B/Y 0.74"
+   },
+   "8": {
+    "slope": [
+     0.9355,
+     0.9355,
+     0.9355
+    ],
+    "why": "closeup shot at luma 0.279 vs group 0.261, cast R/Y 1.30 G/Y 0.94 B/Y 0.75"
+   },
+   "9": {
+    "slope": [
+     1.25,
+     1.25,
+     1.25
+    ],
+    "why": "band shot at luma 0.141 vs group 0.183, cast R/Y 1.67 G/Y 0.85 B/Y 0.61"
+   },
+   "10": {
+    "slope": [
+     1.0585,
+     1.0585,
+     1.0585
+    ],
+    "why": "closeup shot at luma 0.247 vs group 0.261, cast R/Y 1.37 G/Y 0.92 B/Y 0.70"
+   },
+   "11": {
+    "slope": [
+     0.8737,
+     0.8737,
+     0.8737
+    ],
+    "why": "closeup shot at luma 0.299 vs group 0.261, cast R/Y 1.23 G/Y 0.95 B/Y 0.79"
+   },
+   "14": {
+    "slope": [
+     1.0524,
+     1.0524,
+     1.0524
+    ],
+    "why": "crowd shot at luma 0.172 vs group 0.182, cast R/Y 1.49 G/Y 0.91 B/Y 0.51"
+   },
+   "15": {
+    "slope": [
+     1.1251,
+     1.1251,
+     1.1251
+    ],
+    "why": "band shot at luma 0.163 vs group 0.183, cast R/Y 1.40 G/Y 0.92 B/Y 0.73"
+   },
+   "17": {
+    "slope": [
+     1.0567,
+     1.0567,
+     1.0567
+    ],
+    "why": "closeup shot at luma 0.247 vs group 0.261, cast R/Y 1.35 G/Y 0.93 B/Y 0.70"
+   },
+   "20": {
+    "slope": [
+     1.0407,
+     1.0407,
+     1.0407
+    ],
+    "why": "band shot at luma 0.176 vs group 0.183, cast R/Y 1.37 G/Y 0.92 B/Y 0.76"
+   },
+   "21": {
+    "slope": [
+     1.1438,
+     1.1438,
+     1.1438
+    ],
+    "why": "crowd shot at luma 0.159 vs group 0.182, cast R/Y 1.38 G/Y 0.92 B/Y 0.71"
+   },
+   "23": {
+    "slope": [
+     0.8222,
+     0.8222,
+     0.8222
+    ],
+    "why": "band shot at luma 0.223 vs group 0.183, cast R/Y 1.61 G/Y 0.86 B/Y 0.64"
+   },
+   "24": {
+    "slope": [
+     0.877,
+     0.877,
+     0.877
+    ],
+    "why": "closeup shot at luma 0.298 vs group 0.261, cast R/Y 1.25 G/Y 0.95 B/Y 0.78"
+   },
+   "25": {
+    "slope": [
+     0.9302,
+     0.9302,
+     0.9302
+    ],
+    "why": "closeup shot at luma 0.281 vs group 0.261, cast R/Y 1.34 G/Y 0.93 B/Y 0.74"
+   },
+   "27": {
+    "slope": [
+     1.0507,
+     1.0507,
+     1.0507
+    ],
+    "why": "closeup shot at luma 0.249 vs group 0.261, cast R/Y 1.35 G/Y 0.93 B/Y 0.71"
+   },
+   "28": {
+    "slope": [
+     0.9191,
+     0.9191,
+     0.9191
+    ],
+    "why": "closeup shot at luma 0.284 vs group 0.261, cast R/Y 1.31 G/Y 0.94 B/Y 0.75"
+   },
+   "29": {
+    "slope": [
+     1.1906,
+     1.1906,
+     1.1906
+    ],
+    "why": "closeup shot at luma 0.220 vs group 0.261, cast R/Y 1.34 G/Y 0.93 B/Y 0.71"
+   },
+   "30": {
+    "slope": [
+     0.9551,
+     0.9551,
+     0.9551
+    ],
+    "why": "band shot at luma 0.192 vs group 0.183, cast R/Y 1.45 G/Y 0.91 B/Y 0.59"
+   },
+   "31": {
+    "slope": [
+     1.1869,
+     1.1869,
+     1.1869
+    ],
+    "why": "closeup shot at luma 0.220 vs group 0.261, cast R/Y 1.34 G/Y 0.93 B/Y 0.72"
+   },
+   "32": {
+    "slope": [
+     1.1046,
+     1.1046,
+     1.1046
+    ],
+    "why": "band shot at luma 0.166 vs group 0.183, cast R/Y 1.40 G/Y 0.91 B/Y 0.73"
+   },
+   "34": {
+    "slope": [
+     1.25,
+     1.25,
+     1.25
+    ],
+    "why": "band shot at luma 0.138 vs group 0.183, cast R/Y 1.69 G/Y 0.84 B/Y 0.60"
+   },
+   "35": {
+    "slope": [
+     0.9273,
+     0.9273,
+     0.9273
+    ],
+    "why": "closeup shot at luma 0.282 vs group 0.261, cast R/Y 1.38 G/Y 0.92 B/Y 0.71"
+   },
+   "36": {
+    "slope": [
+     0.817,
+     0.817,
+     0.817
+    ],
+    "why": "band shot at luma 0.224 vs group 0.183, cast R/Y 1.60 G/Y 0.86 B/Y 0.65"
+   },
+   "37": {
+    "slope": [
+     0.8,
+     0.8,
+     0.8
+    ],
+    "why": "band shot at luma 0.283 vs group 0.183, cast R/Y 1.51 G/Y 0.89 B/Y 0.64"
+   },
+   "38": {
+    "slope": [
+     1.1073,
+     1.1073,
+     1.1073
+    ],
+    "why": "closeup shot at luma 0.236 vs group 0.261, cast R/Y 1.30 G/Y 0.94 B/Y 0.74"
+   },
+   "43": {
+    "slope": [
+     1.25,
+     1.25,
+     1.25
+    ],
+    "why": "band shot at luma 0.144 vs group 0.183, cast R/Y 1.69 G/Y 0.84 B/Y 0.60"
+   },
+   "44": {
+    "slope": [
+     0.804,
+     0.804,
+     0.804
+    ],
+    "why": "band shot at luma 0.228 vs group 0.183, cast R/Y 1.59 G/Y 0.87 B/Y 0.65"
+   },
+   "45": {
+    "slope": [
+     0.8,
+     0.8,
+     0.8
+    ],
+    "why": "band shot at luma 0.250 vs group 0.183, cast R/Y 1.78 G/Y 0.81 B/Y 0.66"
+   },
+   "46": {
+    "slope": [
+     0.8,
+     0.8,
+     0.8
+    ],
+    "why": "band shot at luma 0.257 vs group 0.183, cast R/Y 1.77 G/Y 0.81 B/Y 0.66"
+   }
+  },
+  "cdl_recipe": "build/shot_match.py --luma-only: per-shot ASC CDL slope to the group median luma (one slope on all channels: each shot keeps its own colour) (groups closeup/band/crowd from TAKES_REGISTRY), clamp 0.8-1.25, tolerance 0.04; offset 0, power 1; applied on node 1 before the LUT"
+ }
+}

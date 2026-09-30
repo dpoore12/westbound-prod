@@ -1,0 +1,244 @@
+{
+ "0": {
+  "box": [
+   340,
+   0,
+   320,
+   568
+  ],
+  "why": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame"
+ },
+ "1": {
+  "bx": 3.1111,
+  "ax": 0.406,
+  "why": "C2 Cass: no frontal face found (head tilted), centre window cut his shoulder; by eye x 370..802: face 470-650, picking hand, fretting hand at the right edge"
+ },
+ "3": {
+  "box": [
+   340,
+   0,
+   320,
+   568
+  ],
+  "why": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame"
+ },
+ "4": {
+  "bx": 3.1111,
+  "ax": 0.149,
+  "why": "B2 Leni with Rex behind: on LENI, x 136..568: her hair, face, both hands and the bass neck and scroll; Rex and the kit (from x~660) outside. Shot 43: the detector chose REX (ax 0.73), overruled (rule 29)"
+ },
+ "5": {
+  "bx": 3.1111,
+  "ax": 0.45,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 410..842"
+ },
+ "6": {
+  "bx": 3.1111,
+  "ax": 0.406,
+  "why": "C2 Cass: no frontal face found (head tilted), centre window cut his shoulder; by eye x 370..802: face 470-650, picking hand, fretting hand at the right edge"
+ },
+ "7": {
+  "bx": 3.1111,
+  "ax": 0.399,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 364..796"
+ },
+ "8": {
+  "bx": 3.1111,
+  "ax": 0.44,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 401..833"
+ },
+ "9": {
+  "bx": 3.1111,
+  "ax": 0.149,
+  "why": "B2 Leni with Rex behind: on LENI, x 136..568: her hair, face, both hands and the bass neck and scroll; Rex and the kit (from x~660) outside. Shot 43: the detector chose REX (ax 0.73), overruled (rule 29)"
+ },
+ "10": {
+  "bx": 3.1111,
+  "ax": 0.4,
+  "why": "Sammy, hands on the mic at the right (E2): detector 346 moved to 365 so the hand on the mic stays in at the end of the slot"
+ },
+ "11": {
+  "bx": 3.1111,
+  "ax": 0.42,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 383..815"
+ },
+ "12": {
+  "bx": 3.1111,
+  "ax": 0.384,
+  "why": "Sammy, hand on the mic at the LEFT of his face (B2/J2/M3/U3 frames): the detector's face-centred window (410-419) cut the hand; by eye x 350..782 holds the hand, the mic and the whole face"
+ },
+ "13": {
+  "box": [
+   340,
+   0,
+   320,
+   568
+  ],
+  "why": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame"
+ },
+ "15": {
+  "box": [
+   340,
+   0,
+   320,
+   568
+  ],
+  "why": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame"
+ },
+ "16": {
+  "bx": 3.1111,
+  "ax": 0.42,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 383..815"
+ },
+ "17": {
+  "bx": 3.1111,
+  "ax": 0.399,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 364..796"
+ },
+ "18": {
+  "bx": 3.1111,
+  "ax": 0.409,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 373..805"
+ },
+ "19": {
+  "bx": 3.1111,
+  "ax": 0.384,
+  "why": "Sammy, hand on the mic at the LEFT of his face (B2/J2/M3/U3 frames): the detector's face-centred window (410-419) cut the hand; by eye x 350..782 holds the hand, the mic and the whole face"
+ },
+ "20": {
+  "box": [
+   340,
+   0,
+   320,
+   568
+  ],
+  "why": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame"
+ },
+ "22": {
+  "bx": 3.1111,
+  "ax": 0.461,
+  "why": "M1 Max: no frontal face (eyes down under the cap); by eye x 420..852: face 490-620, his mic, picking hand, fretting hand"
+ },
+ "23": {
+  "bx": 3.1111,
+  "ax": 0.406,
+  "why": "C2 Cass: no frontal face found (head tilted), centre window cut his shoulder; by eye x 370..802: face 470-650, picking hand, fretting hand at the right edge"
+ },
+ "24": {
+  "bx": 3.1111,
+  "ax": 0.42,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 383..815"
+ },
+ "25": {
+  "bx": 3.1111,
+  "ax": 0.42,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 383..815"
+ },
+ "26": {
+  "bx": 3.1111,
+  "ax": 0.384,
+  "why": "Sammy, hand on the mic at the LEFT of his face (B2/J2/M3/U3 frames): the detector's face-centred window (410-419) cut the hand; by eye x 350..782 holds the hand, the mic and the whole face"
+ },
+ "27": {
+  "bx": 3.1111,
+  "ax": 0.399,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 364..796"
+ },
+ "28": {
+  "bx": 3.1111,
+  "ax": 0.42,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 383..815"
+ },
+ "29": {
+  "bx": 3.1111,
+  "ax": 0.35,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 319..751"
+ },
+ "30": {
+  "bx": 3.1111,
+  "ax": 0.351,
+  "why": "BV3 Max singing the backing line: detector 246 put the stage light in and his fretting hand out; by eye x 320..752: face and mic centred, picking hand, bass body"
+ },
+ "31": {
+  "bx": 3.1111,
+  "ax": 0.43,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 392..824"
+ },
+ "32": {
+  "box": [
+   340,
+   0,
+   320,
+   568
+  ],
+  "why": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame"
+ },
+ "34": {
+  "bx": 3.1111,
+  "ax": 0.149,
+  "why": "B2 Leni with Rex behind: on LENI, x 136..568: her hair, face, both hands and the bass neck and scroll; Rex and the kit (from x~660) outside. Shot 43: the detector chose REX (ax 0.73), overruled (rule 29)"
+ },
+ "35": {
+  "bx": 3.1111,
+  "ax": 0.399,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 364..796"
+ },
+ "36": {
+  "bx": 3.1111,
+  "ax": 0.406,
+  "why": "C2 Cass: no frontal face found (head tilted), centre window cut his shoulder; by eye x 370..802: face 470-650, picking hand, fretting hand at the right edge"
+ },
+ "37": {
+  "bx": 3.1111,
+  "ax": 0.466,
+  "why": "BV1c Sammy and Cass at one mic: heads 430-610 and 710-870, together 440 px on a 432 px window; by eye x 425..857 holds both faces and the mic for the sung harmony (src 0-9.7 s). When Cass steps back to play (src ~9.7-10.5 s, cut 3:05.5-3:06.3) he leaves the frame to the right; a window that keeps him at the end (to x~990) would lose Sammy's face. Crops read at 385/410/439 before choosing"
+ },
+ "38": {
+  "bx": 3.1111,
+  "ax": 0.42,
+  "why": "Sammy close-up: the detector's face median, read on the source grid (first/middle/last): face, mic and hand inside x 383..815"
+ },
+ "39": {
+  "box": [
+   355,
+   0,
+   320,
+   568
+  ],
+  "why": "BV2 Cass singing the backing line: the locked 16:9 crop (by 1.7, left/top) hides the EMPTY KIT; centre-cropped to 9:16 it left a 253 px window that cut his face, and a full-height window (x 262..694) showed the empty kit's stands and kick in the bottom right corner. Tighter 9:16 crop x 355..675, y 0..568: Cass's face at the mic singing, strap, the top of the guitar; the kit is out of frame at every time read (0.2, 2.0, 4.0, 7.5 s)"
+ },
+ "40": {
+  "bx": 3.1111,
+  "ax": 0.384,
+  "why": "Sammy, hand on the mic at the LEFT of his face (B2/J2/M3/U3 frames): the detector's face-centred window (410-419) cut the hand; by eye x 350..782 holds the hand, the mic and the whole face"
+ },
+ "41": {
+  "box": [
+   340,
+   0,
+   320,
+   568
+  ],
+  "why": "C1r Cass with Rex behind: the detector chose REX (largest frontal face) in five of seven slots = a drummer insert (rule 29) and no lead guitar. A full-height window on Cass (x 250..682) kept Rex out but left the edge of the KIT in the bottom right corner (stands from x~590 below y~580, measured on a brightened 50 px grid): a kit with no player in frame (Empty instruments). So a tighter 9:16 crop, x 340..660, y 0..568: Cass's face, his mic, the guitar strap and the top of the Les Paul with the fretting hand; no kit, no Rex. The picking hand is below the frame"
+ },
+ "43": {
+  "bx": 3.1111,
+  "ax": 0.149,
+  "why": "B2 Leni with Rex behind: on LENI, x 136..568: her hair, face, both hands and the bass neck and scroll; Rex and the kit (from x~660) outside. Shot 43: the detector chose REX (ax 0.73), overruled (rule 29)"
+ },
+ "44": {
+  "bx": 3.1111,
+  "ax": 0.406,
+  "why": "C2 Cass: no frontal face found (head tilted), centre window cut his shoulder; by eye x 370..802: face 470-650, picking hand, fretting hand at the right edge"
+ },
+ "45": {
+  "bx": 3.1111,
+  "ax": 0.175,
+  "why": "OUT1/OUT2 Cass, Rex behind, Max at the right: the detector centred REX with half of Cass at the left edge; three men span 190-1300 and no 9:16 window holds them. By eye on CASS with REX behind him, x 160..592: Cass whole with the Les Paul, Rex's face whole (490-585), Cass's raised fist at the final chord (OUT2 src 9.2-9.6 s) inside; Max (from x~830) outside, and the bass is silent over the last 17 s"
+ },
+ "46": {
+  "bx": 3.1111,
+  "ax": 0.175,
+  "why": "OUT1/OUT2 Cass, Rex behind, Max at the right: the detector centred REX with half of Cass at the left edge; three men span 190-1300 and no 9:16 window holds them. By eye on CASS with REX behind him, x 160..592: Cass whole with the Les Paul, Rex's face whole (490-585), Cass's raised fist at the final chord (OUT2 src 9.2-9.6 s) inside; Max (from x~830) outside, and the bass is silent over the last 17 s"
+ }
+}

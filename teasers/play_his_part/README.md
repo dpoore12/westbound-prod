@@ -10,6 +10,11 @@
 
 What the cut does: 21 sung close-ups of Sammy; Sammy and Cass singing the backing line together at one mic (2:56); Cass and Max singing their own backing lines; Cass on the guitar leads with Rex at the kit behind; the outro as a two-shot, Cass cranking, Max cool; the Scoot Inn's own crowd (H3 on Dan's crowd frames, never with the band, under 2 s). Song master and stems are not in this public repo.
 
+## The vertical (9:16), graded — v5_916_graded APPROVED and locked, 30 Sep 2026 (Dan: "great for a vertical lock that")
+- `play_his_part_v5_916_graded_preview_540x960.mp4` — preview (the 1080×1920 master lives in the studio as `exports/play_his_part_v5_916_graded_APPROVED.mp4`).
+- `cut_sheet_v5_916_graded_APPROVED.json` — the same 47 shots, times, takes and audio as the 16:9 lock; each shot carries the 9:16 window it shows (a `zoom` with `bx`/`ax`, or a tighter box on the Cass shots so the drum kit stays out of frame with no player). `v5_916_windows.json` — every window and the reason it sits where it does. The `resolve` block records what DaVinci Resolve added on top: a brightness-only shot match (34 shots), one room LUT (`scoot_inn_night`), Super Scale 2x on every 768p source.
+- `frame_sheet_v5_916.jpg` — 12 frames across the vertical.
+
 ## Shot list
 | Song time | Clip | from |
 |---|---|---|
