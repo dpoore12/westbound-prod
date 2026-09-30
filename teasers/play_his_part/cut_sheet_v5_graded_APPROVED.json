@@ -1,0 +1,668 @@
+{
+ "total": 238.15,
+ "frame": "16:9",
+ "_note": "play_his_part_v5_graded (30 Sep 2026) = the locked v5 16:9 (cuts/play_his_part_v5_APPROVED.json), unchanged, with the grade of the locked vertical on top (resolve block). Built by build/play_his_part_v5_graded.py.",
+ "shots": [
+  {
+   "start": 0.0,
+   "end": 3.762,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1
+  },
+  {
+   "start": 3.762,
+   "end": 6.92,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C2_cass_218.00_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.035,
+   "speed": 1
+  },
+  {
+   "start": 6.92,
+   "end": 8.266,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_crowd_scoot_31_6s.mp4",
+   "mode": "crop",
+   "src_start": 0.5,
+   "speed": 1
+  },
+  {
+   "start": 8.266,
+   "end": 11.424,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 4.021,
+   "speed": 1
+  },
+  {
+   "start": 11.424,
+   "end": 15.0,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_B2_leni_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1
+  },
+  {
+   "start": 15.0,
+   "end": 19.551,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_A_015.00_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 19.551,
+   "end": 22.2,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C2_cass_218.00_8s.mp4",
+   "mode": "crop",
+   "src_start": 3.564,
+   "speed": 1
+  },
+  {
+   "start": 22.2,
+   "end": 28.5,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_C_022.20_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 28.5,
+   "end": 33.994,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_D_028.50_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 33.994,
+   "end": 36.5,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_B2_leni_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 4.021,
+   "speed": 1
+  },
+  {
+   "start": 36.5,
+   "end": 43.3,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_E2_036.50_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 43.3,
+   "end": 50.5,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_F_043.30_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 50.5,
+   "end": 58.329,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_B2_050.50_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 58.329,
+   "end": 61.486,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1
+  },
+  {
+   "start": 61.486,
+   "end": 62.856,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_crowd_scoot_39_6s.mp4",
+   "mode": "crop",
+   "src_start": 0.5,
+   "speed": 1
+  },
+  {
+   "start": 62.856,
+   "end": 65.2,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 3.579,
+   "speed": 1
+  },
+  {
+   "start": 65.2,
+   "end": 72.7,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_G_065.20_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 72.7,
+   "end": 79.5,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_H2_072.70_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 79.5,
+   "end": 86.7,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_I_079.50_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 86.7,
+   "end": 95.341,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_J2_086.70_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 95.341,
+   "end": 99.405,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1
+  },
+  {
+   "start": 99.405,
+   "end": 100.751,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_crowd_scoot_45_6s.mp4",
+   "mode": "crop",
+   "src_start": 0.5,
+   "speed": 1
+  },
+  {
+   "start": 100.751,
+   "end": 103.909,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_M1_max_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1
+  },
+  {
+   "start": 103.909,
+   "end": 106.6,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C2_cass_218.00_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.035,
+   "speed": 1
+  },
+  {
+   "start": 106.6,
+   "end": 113.3,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_K_106.60_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 113.3,
+   "end": 119.9,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_L_113.30_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 119.9,
+   "end": 127.8,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_M3_119.90_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 127.8,
+   "end": 137.0,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_N2_127.80_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 137.0,
+   "end": 144.4,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_O_137.00_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 144.4,
+   "end": 151.441,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_P_144.40_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 151.441,
+   "end": 154.877,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_BV3_148.40_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 3.041,
+   "speed": 1
+  },
+  {
+   "start": 154.877,
+   "end": 159.405,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_Q_153.20_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 1.677,
+   "speed": 1
+  },
+  {
+   "start": 159.405,
+   "end": 162.099,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 4.462,
+   "speed": 1
+  },
+  {
+   "start": 162.099,
+   "end": 163.468,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_crowd_scoot_31_6s.mp4",
+   "mode": "crop",
+   "src_start": 2.146,
+   "speed": 1
+  },
+  {
+   "start": 163.468,
+   "end": 165.3,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_B2_leni_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1
+  },
+  {
+   "start": 165.3,
+   "end": 174.707,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_R_165.30_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 174.707,
+   "end": 175.8,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C2_cass_218.00_8s.mp4",
+   "mode": "crop",
+   "src_start": 3.123,
+   "speed": 1
+  },
+  {
+   "start": 175.8,
+   "end": 187.6,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_BV1c_175.80_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 187.6,
+   "end": 191.866,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_T_187.60_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 191.866,
+   "end": 199.3,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_BV2_191.70_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.166,
+   "speed": 1,
+   "zoom": {
+    "by": 1.7,
+    "ax": 0.0,
+    "ay": 0.3
+   }
+  },
+  {
+   "start": 199.3,
+   "end": 208.74,
+   "kind": "clip",
+   "path": "handoff/play_his_part/takes/php_U3_199.30_h3max768.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 208.74,
+   "end": 212.184,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C1r_cass_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 0.05,
+   "speed": 1
+  },
+  {
+   "start": 212.184,
+   "end": 213.531,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_crowd_scoot_39_6s.mp4",
+   "mode": "crop",
+   "src_start": 2.17,
+   "speed": 1
+  },
+  {
+   "start": 213.531,
+   "end": 216.247,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_B2_leni_rex_094.85_8s.mp4",
+   "mode": "crop",
+   "src_start": 2.256,
+   "speed": 1
+  },
+  {
+   "start": 216.247,
+   "end": 218.0,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_C2_cass_218.00_8s.mp4",
+   "mode": "crop",
+   "src_start": 4.447,
+   "speed": 1
+  },
+  {
+   "start": 218.0,
+   "end": 229.7,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_OUT1_cass_max_rex_218.00_14s.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "speed": 1
+  },
+  {
+   "start": 229.7,
+   "end": 238.15,
+   "kind": "clip",
+   "path": "handoff/library/scoot_inn/takes/h3_OUT2_cass_max_rex_226.00_12s.mp4",
+   "mode": "crop",
+   "src_start": 3.7,
+   "speed": 1
+  }
+ ],
+ "audio": {
+  "room_tone": 0.0,
+  "music": [
+   {
+    "file": "handoff/songs/play_his_part_landr_open_high_rev_v1.wav",
+    "src_start": 0.0,
+    "at": 0.0,
+    "gain": [
+     [
+      0,
+      0.92
+     ],
+     [
+      238.15,
+      0.92
+     ]
+    ]
+   },
+   {
+    "file": "handoff/play_his_part/sfx/php_bed_238s.wav",
+    "src_start": 0.0,
+    "at": 0.0,
+    "gain": [
+     [
+      0,
+      0.14
+     ],
+     [
+      236.5,
+      0.14
+     ],
+     [
+      238.15,
+      0.0
+     ]
+    ]
+   }
+  ]
+ },
+ "resolve": {
+  "superscale": 2,
+  "superscale_recipe": "Resolve Studio Super Scale 2x on every 1344x768 source: the 1920x1080 frame is resampled from 2688x1536 instead of enlarged 1.43x from 768p",
+  "lut": "MCP/scoot_inn_night.cube",
+  "lut_recipe": "generate_lut 33^3: 20% smoothstep contrast blend, warm bias r*1.02 b*0.975 (lighter than the Whisky's: the room is already warm and red), highlights above 0.8 desaturated 10% toward luma; one look across all 47 shots so the black close-ups, the red stage and the blue-dusk crowd sit in one night",
+  "renderer": "DaVinci Resolve 21.1 via build/resolve_sheet_to_scripts.py --out play_his_part_v5_graded; brightness-only CDL match + LUT + Super Scale 2x; same master and bed",
+  "cdl": {
+   "1": {
+    "slope": [
+     1.065,
+     1.065,
+     1.065
+    ],
+    "why": "band shot at luma 0.204 vs group 0.217, cast R/Y 1.55 G/Y 0.88 B/Y 0.58"
+   },
+   "4": {
+    "slope": [
+     1.0457,
+     1.0457,
+     1.0457
+    ],
+    "why": "band shot at luma 0.207 vs group 0.217, cast R/Y 1.66 G/Y 0.85 B/Y 0.55"
+   },
+   "6": {
+    "slope": [
+     1.0666,
+     1.0666,
+     1.0666
+    ],
+    "why": "band shot at luma 0.203 vs group 0.217, cast R/Y 1.54 G/Y 0.88 B/Y 0.58"
+   },
+   "7": {
+    "slope": [
+     1.0481,
+     1.0481,
+     1.0481
+    ],
+    "why": "closeup shot at luma 0.148 vs group 0.156, cast R/Y 1.25 G/Y 0.93 B/Y 0.72"
+   },
+   "12": {
+    "slope": [
+     0.938,
+     0.938,
+     0.938
+    ],
+    "why": "closeup shot at luma 0.166 vs group 0.156, cast R/Y 1.26 G/Y 0.94 B/Y 0.67"
+   },
+   "16": {
+    "slope": [
+     1.1065,
+     1.1065,
+     1.1065
+    ],
+    "why": "closeup shot at luma 0.141 vs group 0.156, cast R/Y 1.29 G/Y 0.93 B/Y 0.67"
+   },
+   "18": {
+    "slope": [
+     1.0444,
+     1.0444,
+     1.0444
+    ],
+    "why": "closeup shot at luma 0.149 vs group 0.156, cast R/Y 1.26 G/Y 0.94 B/Y 0.67"
+   },
+   "19": {
+    "slope": [
+     0.9403,
+     0.9403,
+     0.9403
+    ],
+    "why": "closeup shot at luma 0.165 vs group 0.156, cast R/Y 1.28 G/Y 0.94 B/Y 0.68"
+   },
+   "21": {
+    "slope": [
+     1.046,
+     1.046,
+     1.046
+    ],
+    "why": "crowd shot at luma 0.165 vs group 0.173, cast R/Y 1.56 G/Y 0.88 B/Y 0.54"
+   },
+   "22": {
+    "slope": [
+     1.25,
+     1.25,
+     1.25
+    ],
+    "why": "band shot at luma 0.169 vs group 0.217, cast R/Y 1.63 G/Y 0.87 B/Y 0.48"
+   },
+   "23": {
+    "slope": [
+     1.0655,
+     1.0655,
+     1.0655
+    ],
+    "why": "band shot at luma 0.204 vs group 0.217, cast R/Y 1.55 G/Y 0.88 B/Y 0.58"
+   },
+   "26": {
+    "slope": [
+     0.9499,
+     0.9499,
+     0.9499
+    ],
+    "why": "closeup shot at luma 0.164 vs group 0.156, cast R/Y 1.28 G/Y 0.94 B/Y 0.68"
+   },
+   "29": {
+    "slope": [
+     1.1027,
+     1.1027,
+     1.1027
+    ],
+    "why": "closeup shot at luma 0.141 vs group 0.156, cast R/Y 1.26 G/Y 0.93 B/Y 0.69"
+   },
+   "30": {
+    "slope": [
+     1.2285,
+     1.2285,
+     1.2285
+    ],
+    "why": "band shot at luma 0.177 vs group 0.217, cast R/Y 1.60 G/Y 0.88 B/Y 0.51"
+   },
+   "31": {
+    "slope": [
+     0.8887,
+     0.8887,
+     0.8887
+    ],
+    "why": "closeup shot at luma 0.175 vs group 0.156, cast R/Y 1.28 G/Y 0.93 B/Y 0.66"
+   },
+   "34": {
+    "slope": [
+     1.061,
+     1.061,
+     1.061
+    ],
+    "why": "band shot at luma 0.204 vs group 0.217, cast R/Y 1.67 G/Y 0.85 B/Y 0.54"
+   },
+   "36": {
+    "slope": [
+     1.0725,
+     1.0725,
+     1.0725
+    ],
+    "why": "band shot at luma 0.202 vs group 0.217, cast R/Y 1.55 G/Y 0.88 B/Y 0.58"
+   },
+   "37": {
+    "slope": [
+     0.8,
+     0.8,
+     0.8
+    ],
+    "why": "band shot at luma 0.286 vs group 0.217, cast R/Y 1.55 G/Y 0.88 B/Y 0.60"
+   },
+   "40": {
+    "slope": [
+     0.9276,
+     0.9276,
+     0.9276
+    ],
+    "why": "closeup shot at luma 0.168 vs group 0.156, cast R/Y 1.27 G/Y 0.94 B/Y 0.67"
+   },
+   "42": {
+    "slope": [
+     0.9401,
+     0.9401,
+     0.9401
+    ],
+    "why": "crowd shot at luma 0.184 vs group 0.173, cast R/Y 1.43 G/Y 0.91 B/Y 0.64"
+   },
+   "44": {
+    "slope": [
+     1.0635,
+     1.0635,
+     1.0635
+    ],
+    "why": "band shot at luma 0.204 vs group 0.217, cast R/Y 1.54 G/Y 0.88 B/Y 0.59"
+   },
+   "45": {
+    "slope": [
+     0.8519,
+     0.8519,
+     0.8519
+    ],
+    "why": "band shot at luma 0.255 vs group 0.217, cast R/Y 1.67 G/Y 0.84 B/Y 0.63"
+   },
+   "46": {
+    "slope": [
+     0.8279,
+     0.8279,
+     0.8279
+    ],
+    "why": "band shot at luma 0.262 vs group 0.217, cast R/Y 1.66 G/Y 0.84 B/Y 0.63"
+   }
+  },
+  "cdl_recipe": "build/shot_match.py --luma-only: per-shot ASC CDL slope to the group median luma (one slope on all channels: each shot keeps its own colour) (groups closeup/band/crowd from TAKES_REGISTRY), clamp 0.8-1.25, tolerance 0.04; offset 0, power 1; applied on node 1 before the LUT"
+ }
+}
