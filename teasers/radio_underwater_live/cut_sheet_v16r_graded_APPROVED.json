@@ -1,0 +1,550 @@
+{
+ "total": 254.0,
+ "frame": "16:9",
+ "shots": [
+  {
+   "start": 0,
+   "end": 6,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix1_open_crowd_0_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 6,
+   "end": 16,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix13_violin_intro_6_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 16,
+   "end": 22.25,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix14_violin_intro_16_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 22.25,
+   "end": 31.6,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix3_closeup_22.25_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 31.6,
+   "end": 36,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open5_cass_max_768p.mp4",
+   "mode": "crop",
+   "src_start": 2.6
+  },
+  {
+   "start": 36,
+   "end": 45,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix4_wideR2A_36_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 45,
+   "end": 49,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open7_closeup_45_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 49,
+   "end": 53.3,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open8_handsonmic_49_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 53.3,
+   "end": 55,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix10_cutaway_R3_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 55,
+   "end": 59.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix17_closeup_hook_55_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 59.5,
+   "end": 62,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open10_violinist_59.5_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 62,
+   "end": 67.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix21_closeup_hook_62_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 67.5,
+   "end": 73,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open12_closeup_67_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.5
+  },
+  {
+   "start": 73,
+   "end": 77.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open13_cass_max_73_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 77.5,
+   "end": 79.25,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix10_cutaway_R3_768p.mp4",
+   "mode": "crop",
+   "src_start": 2.5
+  },
+  {
+   "start": 79.25,
+   "end": 84,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open14_handsonmic_78_768p.mp4",
+   "mode": "crop",
+   "src_start": 1.25
+  },
+  {
+   "start": 84,
+   "end": 88,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix5_wideR2B_84_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 88,
+   "end": 92,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix19_closeup_88_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 92,
+   "end": 96.4,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/open16_violinist_90_768p.mp4",
+   "mode": "crop",
+   "src_start": 2.0
+  },
+  {
+   "start": 96.4,
+   "end": 107.9,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix6_closeup_96.4_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 107.9,
+   "end": 117.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix12_closeup_eyes_107.9_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 117.5,
+   "end": 123.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix20_hands_117.5_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 123.5,
+   "end": 130.2,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s7_2_closeup_123.5_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 130.2,
+   "end": 136.2,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s7_3_hands_130.2_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 136.2,
+   "end": 149.75,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s7_4_closeup_136.2_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 149.75,
+   "end": 155.75,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s7_5_cassmax_149.75_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 155.75,
+   "end": 165.19,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s7_6_closeup_155.75_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 165.19,
+   "end": 175.6,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix23_solo_violinist_pinned_163.95_768p.mp4",
+   "mode": "crop",
+   "src_start": 2.2
+  },
+  {
+   "start": 175.6,
+   "end": 183.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_A_closeup_175.6_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 183.5,
+   "end": 191.0,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_B_hands_183.5_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 191.0,
+   "end": 192.0,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/fix10_cutaway_R3_768p.mp4",
+   "mode": "crop",
+   "src_start": 4.0
+  },
+  {
+   "start": 192.0,
+   "end": 196.0,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_C_closeup_192_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 196.0,
+   "end": 199.0,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_D_cassmax_196_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 199.0,
+   "end": 209.0,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_E1_closeup_199_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 209.0,
+   "end": 215.7,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_E2_closeup_209_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 215.7,
+   "end": 221.6,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_F_hands_215.7_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 221.6,
+   "end": 227.6,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_G1_violin_221.6_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 227.6,
+   "end": 231.5,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_G2_closeup_227.6_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 231.5,
+   "end": 238.4,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_G3_violin_231.5_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0,
+   "zoom": {
+    "by": 1.4,
+    "ax": 0.0,
+    "ay": 0.5
+   }
+  },
+  {
+   "start": 238.4,
+   "end": 246.4,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_G4_closeup_238.4_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  },
+  {
+   "start": 246.4,
+   "end": 254.0,
+   "kind": "clip",
+   "path": "handoff/whisky/opening_h3max/s8_G5_room_246.4_768p.mp4",
+   "mode": "crop",
+   "src_start": 0.0
+  }
+ ],
+ "audio": {
+  "room_tone": 0.0,
+  "music": [
+   {
+    "file": "handoff/songs/Radio Underwater- Sammy Rane and Westbound.wav",
+    "src_start": 0.0,
+    "at": 0.0,
+    "gain": [
+     [
+      0,
+      1.0
+     ],
+     [
+      252.5,
+      1.0
+     ],
+     [
+      254.0,
+      0.0
+     ]
+    ]
+   }
+  ]
+ },
+ "_note": "v16r (28 Sep 2026) = the locked v16 with ONE change: zoom 1.4 ax 0.0 on the s8_G3_violin slot 231.5-238.4 to crop out the stranger guitarist at the right edge (TAKES_REGISTRY crop_ok). Built for the Resolve rebuild + compare; v16 stays locked and untouched. | GRADED (build/grade_sheet.py, 30 Sep 2026 method): Dan, 30 Sep: \"grade the whisky widescreen the same way\": the cut of whisky_v16r.json unchanged; Resolve adds Super Scale 2x, the room LUT and a brightness-only match.",
+ "resolve": {
+  "superscale": 2,
+  "superscale_recipe": "Resolve Studio Super Scale 2x on every source clip (media pool property): the frame is resampled from twice the source size instead of enlarged from it",
+  "lut": "MCP/scoot_inn_night.cube",
+  "lut_recipe": "the Play His Part LUT (generate_lut 33^3: 20% smoothstep contrast blend, warm bias r*1.02 b*0.975, highlights above 0.8 desaturated 10% toward luma), because Dan asked for the same grade; the Whisky's own whisky_room.cube (25%, r*1.03 b*0.965, made 28 Sep for v17) pushed the faces orange on the preview (build/grade_preview.py, shots 34/20/9/38/0/15, 30 Sep). The Whisky room is already warm and red, like the Scoot Inn.",
+  "renderer": "DaVinci Resolve 21.1 via build/resolve_sheet_to_scripts.py --out whisky_v16r_graded; brightness-only CDL match + LUT + Super Scale 2x; audio exactly as the source sheet",
+  "cdl": {
+   "0": {
+    "slope": [
+     0.8738,
+     0.8738,
+     0.8738
+    ],
+    "why": "crowd shot at luma 0.216 vs group 0.188, cast R/Y 1.30 G/Y 0.95 B/Y 0.63"
+   },
+   "1": {
+    "slope": [
+     0.9242,
+     0.9242,
+     0.9242
+    ],
+    "why": "band shot at luma 0.221 vs group 0.204, cast R/Y 1.22 G/Y 0.96 B/Y 0.69"
+   },
+   "2": {
+    "slope": [
+     0.9562,
+     0.9562,
+     0.9562
+    ],
+    "why": "band shot at luma 0.214 vs group 0.204, cast R/Y 1.23 G/Y 0.97 B/Y 0.65"
+   },
+   "8": {
+    "slope": [
+     1.0491,
+     1.0491,
+     1.0491
+    ],
+    "why": "crowd shot at luma 0.180 vs group 0.188, cast R/Y 1.41 G/Y 0.93 B/Y 0.60"
+   },
+   "9": {
+    "slope": [
+     0.9372,
+     0.9372,
+     0.9372
+    ],
+    "why": "closeup shot at luma 0.172 vs group 0.161, cast R/Y 1.38 G/Y 0.93 B/Y 0.61"
+   },
+   "10": {
+    "slope": [
+     1.0403,
+     1.0403,
+     1.0403
+    ],
+    "why": "band shot at luma 0.196 vs group 0.204, cast R/Y 1.22 G/Y 0.96 B/Y 0.65"
+   },
+   "12": {
+    "slope": [
+     0.9438,
+     0.9438,
+     0.9438
+    ],
+    "why": "closeup shot at luma 0.170 vs group 0.161, cast R/Y 1.39 G/Y 0.92 B/Y 0.61"
+   },
+   "15": {
+    "slope": [
+     0.9094,
+     0.9094,
+     0.9094
+    ],
+    "why": "band shot at luma 0.225 vs group 0.204, cast R/Y 1.26 G/Y 0.94 B/Y 0.77"
+   },
+   "16": {
+    "slope": [
+     0.9442,
+     0.9442,
+     0.9442
+    ],
+    "why": "band shot at luma 0.216 vs group 0.204, cast R/Y 1.28 G/Y 0.97 B/Y 0.60"
+   },
+   "17": {
+    "slope": [
+     0.9507,
+     0.9507,
+     0.9507
+    ],
+    "why": "closeup shot at luma 0.169 vs group 0.161, cast R/Y 1.37 G/Y 0.93 B/Y 0.61"
+   },
+   "19": {
+    "slope": [
+     1.1134,
+     1.1134,
+     1.1134
+    ],
+    "why": "closeup shot at luma 0.144 vs group 0.161, cast R/Y 1.44 G/Y 0.92 B/Y 0.56"
+   },
+   "20": {
+    "slope": [
+     1.1055,
+     1.1055,
+     1.1055
+    ],
+    "why": "closeup shot at luma 0.146 vs group 0.161, cast R/Y 1.54 G/Y 0.88 B/Y 0.59"
+   },
+   "22": {
+    "slope": [
+     1.068,
+     1.068,
+     1.068
+    ],
+    "why": "closeup shot at luma 0.151 vs group 0.161, cast R/Y 1.42 G/Y 0.92 B/Y 0.60"
+   },
+   "24": {
+    "slope": [
+     0.9466,
+     0.9466,
+     0.9466
+    ],
+    "why": "closeup shot at luma 0.170 vs group 0.161, cast R/Y 1.42 G/Y 0.91 B/Y 0.60"
+   },
+   "27": {
+    "slope": [
+     1.0578,
+     1.0578,
+     1.0578
+    ],
+    "why": "band shot at luma 0.193 vs group 0.204, cast R/Y 1.21 G/Y 0.96 B/Y 0.73"
+   },
+   "28": {
+    "slope": [
+     1.0715,
+     1.0715,
+     1.0715
+    ],
+    "why": "closeup shot at luma 0.150 vs group 0.161, cast R/Y 1.41 G/Y 0.92 B/Y 0.58"
+   },
+   "31": {
+    "slope": [
+     0.9524,
+     0.9524,
+     0.9524
+    ],
+    "why": "closeup shot at luma 0.169 vs group 0.161, cast R/Y 1.38 G/Y 0.93 B/Y 0.60"
+   },
+   "33": {
+    "slope": [
+     1.1019,
+     1.1019,
+     1.1019
+    ],
+    "why": "closeup shot at luma 0.146 vs group 0.161, cast R/Y 1.45 G/Y 0.91 B/Y 0.56"
+   },
+   "34": {
+    "slope": [
+     1.2209,
+     1.2209,
+     1.2209
+    ],
+    "why": "closeup shot at luma 0.132 vs group 0.161, cast R/Y 1.51 G/Y 0.88 B/Y 0.58"
+   },
+   "37": {
+    "slope": [
+     0.8949,
+     0.8949,
+     0.8949
+    ],
+    "why": "closeup shot at luma 0.180 vs group 0.161, cast R/Y 1.50 G/Y 0.90 B/Y 0.56"
+   },
+   "38": {
+    "slope": [
+     0.8795,
+     0.8795,
+     0.8795
+    ],
+    "why": "band shot at luma 0.232 vs group 0.204, cast R/Y 1.24 G/Y 0.96 B/Y 0.68"
+   },
+   "40": {
+    "slope": [
+     0.9346,
+     0.9346,
+     0.9346
+    ],
+    "why": "crowd shot at luma 0.202 vs group 0.188, cast R/Y 1.34 G/Y 0.94 B/Y 0.60"
+   }
+  },
+  "cdl_recipe": "build/shot_match.py --luma-only: per-shot ASC CDL slope to the group median luma (one slope on all channels: each shot keeps its own colour) (groups closeup/band/crowd from TAKES_REGISTRY), clamp 0.8-1.25, tolerance 0.04; offset 0, power 1; applied on node 1 before the LUT"
+ }
+}

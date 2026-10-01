@@ -8,6 +8,10 @@
 - `h3max_prompts.md`, `midjourney_prompts.md` — every prompt behind the takes and the frames.
 - `source_frames/` — the five Midjourney frames that carry most of the video (close-up, hands-on-mic, Cass+Max, solo with the violinist, violinist two-shot). Cass was put into the band frames from his locked hero with Kling image edits.
 
+## Graded — v16r_graded APPROVED and locked, 30 Sep 2026 (Dan: "lock")
+- `radio_underwater_live_v16r_graded_preview_720p.mp4` — preview (the 1920×1080 master lives in the studio as `exports/whisky_v16r_graded_APPROVED.mp4`).
+- `cut_sheet_v16r_graded_APPROVED.json` — the v16 cut with the two 28 Sep repairs (a crop at 3:56 that keeps a stray guitarist out of frame; a one-frame stutter fixed in three shots), graded in DaVinci Resolve the same way as Play His Part: a brightness-only shot match (22 shots), the room LUT `scoot_inn_night`, Super Scale 2x. The song only, as in v16. The 21 Sep v16 lock stays as it was.
+
 Song masters are not in this public repo.
 
 ## Shot list
