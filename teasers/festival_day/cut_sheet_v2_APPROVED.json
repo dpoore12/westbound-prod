@@ -1,0 +1,204 @@
+{
+ "_note": "festival_day_v2 (8 Oct 2026): the six Festival Day takes cut like Bob Dominator's Dark Night. Audio = the master from song 187.9 s. Built by build/festival_day_v1.py from handoff/festival_day_20261008/cut_v2_spec.json.",
+ "total": 27.93,
+ "frame": "9:16",
+ "shots": [
+  {
+   "start": 0.0,
+   "end": 2.2,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd1_sammy_walk_h3_2k_916_187.60.mp4",
+   "src_start": 0.3,
+   "speed": 1,
+   "mode": "crop",
+   "why": "Dark Night opener, singer walking straight at the lens (theirs 2.1 s; ours 2.20 = beat 190.055 + 0.048 grid offset). FD1 widest framing: truss overhead, front r"
+  },
+  {
+   "start": 2.2,
+   "end": 3.13,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd2_sammy_overshoulder_h3_2k_916_noaudio.mp4",
+   "src_start": 0.6,
+   "speed": 1,
+   "mode": "crop",
+   "why": "Over-the-shoulder crowd (theirs 0.7 s; ours 0.93 = two beats, the shortest floor-legal length). Front row sharp past his shoulder, delay tower, crowd to the hor"
+  },
+  {
+   "start": 3.13,
+   "end": 4.48,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd3_max_web_h3_2k_916_210.00.mp4",
+   "src_start": 1.65,
+   "speed": 1,
+   "mode": "crop",
+   "why": "Dark Night bassist-low slot (theirs 2.4 s in two cuts; ours one 1.35 s cut, beats 190.984 and 192.331 + 0.048). Max crouched, head down, the blurred guitar head"
+  },
+  {
+   "start": 4.48,
+   "end": 6.29,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd1_sammy_walk_h3_2k_916_187.60.mp4",
+   "src_start": 4.78,
+   "speed": 1,
+   "mode": "crop",
+   "why": "Dark Night singer-walking beat (theirs 1.2 s at 5.2-6.4; ours 1.81 s, absorbing the second bassist slot). Chest-up with the crowd a dense wall behind him, mouth"
+  },
+  {
+   "start": 6.29,
+   "end": 7.66,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd2_sammy_overshoulder_h3_2k_916_noaudio.mp4",
+   "src_start": 2.5,
+   "speed": 1,
+   "mode": "crop",
+   "why": "Dark Night drummer slot (theirs 1.8 s; the task says use Max or the crowd, so the crowd): FD2 steady follow a step behind as he walks to the edge, barrier and f"
+  },
+  {
+   "start": 7.66,
+   "end": 8.98,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd1_sammy_walk_h3_2k_916_187.60.mp4",
+   "src_start": 7.96,
+   "speed": 1,
+   "mode": "crop",
+   "why": "Dark Night guitarist slot (theirs 1.2 s) given to the FD1 payload close-up: tight face, teeth and mouth shapes big and clear 7.8-9.0, eyes at the lens, hair rim"
+  },
+  {
+   "start": 8.98,
+   "end": 11.3,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd7_sammy_strut_h3_2k_916_079.40.mp4",
+   "src_start": 0.62,
+   "speed": 1,
+   "mode": "crop",
+   "why": "Dark Night strut wides begin (theirs 9.4): FD7 far wide, the whole open stage, crew at the road cases, line arrays, truss, hard shadow, Sammy small (face about "
+  },
+  {
+   "start": 11.3,
+   "end": 12.12,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd8_sammy_closeup_h3_2k_916_199.20.mp4",
+   "src_start": 0.0,
+   "speed": 1,
+   "mode": "crop",
+   "why": "Headset close-up at full lung (Dark Night's close-up cut inside the strut section): eyes shut, mouth wide on the vowel, vocal at 0 dB (reader window 0-2.6). SYN"
+  },
+  {
+   "start": 12.12,
+   "end": 13.95,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/bw2_band_wide_web_h3_2k_916_177.60.mp4",
+   "src_start": 5.6,
+   "speed": 1,
+   "mode": "crop",
+   "why": "the band wide (BW2) in the strut section: all four in their places, Sammy small so no lip risk"
+  },
+  {
+   "start": 13.95,
+   "end": 15.76,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd8_sammy_closeup_h3_2k_916_199.20.mp4",
+   "src_start": 2.65,
+   "speed": 1,
+   "mode": "crop",
+   "why": "Back to the headset close-up for 'play his paaart' (2): head tilting back on the sustained note, envelope peaks at src 4.0 and 4.5, the hanging line-array PA dr"
+  },
+  {
+   "start": 15.76,
+   "end": 16.65,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/bw2_band_wide_web_h3_2k_916_177.60.mp4",
+   "src_start": 8.2,
+   "speed": 1,
+   "mode": "crop",
+   "why": "the band wide (BW2) as the strut cutaway"
+  },
+  {
+   "start": 16.65,
+   "end": 20.71,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd8_sammy_closeup_h3_2k_916_199.20.mp4",
+   "src_start": 5.35,
+   "speed": 1,
+   "mode": "crop",
+   "why": "The payoff close-up to the end of the vocal, Dark Night's end close-up length (theirs 4.6 s at 21.3-25.9; ours 4.06): 'Play his part' (204.66-207.02) with the l"
+  },
+  {
+   "start": 20.71,
+   "end": 22.1,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd4_sammy_low_h3_2k_916_137.00.mp4",
+   "src_start": 7.72,
+   "speed": 1,
+   "mode": "crop",
+   "why": "The breath after the last word (theirs 20.1-21.3): camera-only tilt up the hanging line array and truss to blue sky, his face out of frame from 7.7 (reader wind"
+  },
+  {
+   "start": 22.1,
+   "end": 23.87,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd3_max_web_h3_2k_916_210.00.mp4",
+   "src_start": 0.0,
+   "speed": 1,
+   "mode": "crop",
+   "why": "Max at his own song time so his hands match the outro bass: 187.90 + 22.10 = 210.00; 210.00 + 0.00 = 210.00; diff 0.000. Low from the wings, the blurred headsto"
+  },
+  {
+   "start": 23.87,
+   "end": 24.77,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd4_sammy_low_h3_2k_916_137.00.mp4",
+   "src_start": 9.11,
+   "speed": 1,
+   "mode": "crop",
+   "why": "Rig cutaway continuing shot 13's tilt to sky (reader window 7.7-10.1, no face): runs src 9.11-10.01, the last of FD4's usable tail, over 211.77-212.67 of the ou"
+  },
+  {
+   "start": 24.77,
+   "end": 26.12,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/bw2_band_wide_web_h3_2k_916_177.60.mp4",
+   "src_start": 2.1,
+   "speed": 1,
+   "mode": "crop",
+   "why": "outro beat: the band wide with Sammy walking back toward the band, his back to us; any song time"
+  },
+  {
+   "start": 26.12,
+   "end": 27.93,
+   "kind": "clip",
+   "path": "handoff/festival_day_20261008/takes/fd3_max_web_h3_2k_916_210.00.mp4",
+   "src_start": 4.02,
+   "speed": 1,
+   "mode": "crop",
+   "why": "Ender, Max at his own song time: 187.90 + 26.12 = 214.02; 210.00 + 4.02 = 214.02; diff 0.000. The push-in at its tightest, foreground gone, eyes shut, freckles "
+  }
+ ],
+ "audio": {
+  "music": [
+   {
+    "file": "handoff/songs/Play His Part - Sammy Rane and Westbound.wav",
+    "src_start": 187.9,
+    "at": 0.0,
+    "gain": [
+     [
+      0.0,
+      0.0
+     ],
+     [
+      0.4,
+      1.0
+     ],
+     [
+      26.43,
+      1.0
+     ],
+     [
+      27.93,
+      0.0
+     ]
+    ]
+   }
+  ]
+ }
+}
